@@ -10,6 +10,8 @@
 
 ## Beginner
 
+### Some basics
+
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
 - [5 Tips for Using Strings in Go](http://www.calhoun.io/5-tips-for-using-strings-in-go-2/)
 - [Struct, Map, Array and Slice](https://letslearngo.wordpress.com/2016/01/09/struct-map-array-and-slice/)
