@@ -202,44 +202,64 @@
 
 ## Advanced
 
-- [Debugging a potential deadlock in Go](https://wavded.com/post/golang-deadlockish/)
+### Low Level Concerns
+
 - [Go's work-stealing scheduler · Go, the unwritten parts](https://rakyll.org/scheduler/)
-- [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
-- [TechnoSophos: Go Quickly - Converting Character Encodings In Golang](http://technosophos.com/2016/03/09/go-quickly-converting-character-encodings.html)
-- [Custom JSON Marshalling in Go · Choly's Blog](http://choly.ca/post/go-json-marshalling/)
-- [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
-- [Mutable strings in Golang – Koki – Medium](https://medium.com/kokster/mutable-strings-in-golang-298d422d01bc)
-- [unsafe.Pointer and system calls GopherAcademy](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
-- [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
-- [Allocation Efficiency in High-Performance Go Services · Segment Blog](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
-- [Go Assembly by Example](http://davidwong.fr/goasm/)
-- [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
-- [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
-- [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
-- [How to Optimize Garbage Collection in Go | Cockroach Labs](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
 - [The Go scheduler - Morsing's blog](http://morsmachine.dk/go-scheduler)
-- [Golang's Real-time GC in Theory and Practice - Pusher Blog](https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
-- [Advanced Go Concurrency Patterns - The Go Blog](https://blog.golang.org/advanced-go-concurrency-patterns)
-- [Stateful locks in Go - Tit Petric](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
-- [Looking at your program’s structure in Go 1.7 · Paul Smith](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
-- [Managing Syscall Overhead with crypto/rand · Scott Mansfield](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
-- [Multiplexing Golang Channels to Maximize Throughput | The MongoDB Engineering Journal](https://engineering.mongodb.com/post/multiplexing-golang-channels-to-maximize-throughput/)
-- [allegro.tech - Writing a very fast cache service with millions of entries in Go](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
-- [Golang lock-free values with atomic.Value](https://texlution.com/post/golang-lock-free-values-with-atomic-value/)
-- [Profiling memory usage of a Go app | Vince Yuan's technical blogs](http://vinceyuan.github.io/profiling-memory-usage-of-a-go-app/)
+- [Go Assembly by Example](http://davidwong.fr/goasm/)
+- [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
+- [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
 - [The Go netpoller - Morsing's blog](https://morsmachine.dk/netpoller)
-- [Locking in crypto/rand](http://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
 - [Anatomy of a function call in Go](https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
-- [Advanced Reflection with Go at HashiCorp GopherAcademy](https://blog.gopheracademy.com/birthday-bash-2014/advanced-reflection-with-go-at-hashicorp/)
-- [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
-- [Text normalization in Go - The Go Blog](https://blog.golang.org/normalization)
-- [go-fuzz github.com/arolek/ase â Damian Gryski](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
-- [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
-- [Concurrency, Goroutines and GOMAXPROCS](https://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Scalable Go Scheduler Design Doc](https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit)
 - [Scheduler Tracing in Go](https://www.goinggo.net/2015/02/scheduler-tracing-in-go.html)
-- [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
+- [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
+- [unsafe.Pointer and system calls GopherAcademy](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
+- [Looking at your program’s structure in Go 1.7 · Paul Smith](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
+- [Managing Syscall Overhead with crypto/rand · Scott Mansfield](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
+
+### Performance
+
+- [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
+- [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
+- [Profiling memory usage of a Go app | Vince Yuan's technical blogs](http://vinceyuan.github.io/profiling-memory-usage-of-a-go-app/)
+- [allegro.tech - Writing a very fast cache service with millions of entries in Go](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
+- [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+
+### Garbage Collection
+
+- [Allocation Efficiency in High-Performance Go Services · Segment Blog](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
+- [Golang's Real-time GC in Theory and Practice - Pusher Blog](https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
+- [How to Optimize Garbage Collection in Go | Cockroach Labs](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
+
+### Concurrency
+
+- [Debugging a potential deadlock in Go](https://wavded.com/post/golang-deadlockish/)
+- [Advanced Go Concurrency Patterns - The Go Blog](https://blog.golang.org/advanced-go-concurrency-patterns)
+- [Multiplexing Golang Channels to Maximize Throughput | The MongoDB Engineering Journal](https://engineering.mongodb.com/post/multiplexing-golang-channels-to-maximize-throughput/)
+- [Golang lock-free values with atomic.Value](https://texlution.com/post/golang-lock-free-values-with-atomic-value/)
+- [Stateful locks in Go - Tit Petric](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
 - [Share Memory by Communicating](https://blog.golang.org/share-memory-by-communicating)
 - [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
+- [Concurrency, Goroutines and GOMAXPROCS](https://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
+- [Locking in crypto/rand](http://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
+
+### Character encodings
+
+- [Text normalization in Go - The Go Blog](https://blog.golang.org/normalization)
+- [TechnoSophos: Go Quickly - Converting Character Encodings In Golang](http://technosophos.com/2016/03/09/go-quickly-converting-character-encodings.html)
+
+### JSON Encoding and Decoding
+
+- [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
+- [Custom JSON Marshalling in Go · Choly's Blog](http://choly.ca/post/go-json-marshalling/)
+
+### Miscellaneous
+
+- [Mutable strings in Golang – Koki – Medium](https://medium.com/kokster/mutable-strings-in-golang-298d422d01bc)
+- [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
+- [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
+- [Advanced Reflection with Go at HashiCorp GopherAcademy](https://blog.gopheracademy.com/birthday-bash-2014/advanced-reflection-with-go-at-hashicorp/)
+- [go-fuzz github.com/arolek/ase - Damian Gryski](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
