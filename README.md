@@ -73,6 +73,11 @@
 - [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
 - [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go/)
 
+### Concurrency
+
+- [Data races in Go(Golang) and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
+- [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
+
 ## Intermediate
 
 ### Code Design
@@ -162,6 +167,7 @@
 - [Go tooling essentials · Go, the unwritten parts](https://rakyll.org/go-tool-flags/)
 - [Profiling Go Programs - The Go Blog](https://blog.golang.org/profiling-go-programs)
 - [Go Tooling in Action — Google Cloud Platform — Community — Medium](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
+- [Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
 
 ### Trivia
 
