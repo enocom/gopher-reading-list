@@ -232,6 +232,7 @@
 - [Profiling memory usage of a Go app | Vince Yuan's technical blogs](http://vinceyuan.github.io/profiling-memory-usage-of-a-go-app/)
 - [allegro.tech - Writing a very fast cache service with millions of entries in Go](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+- [go-perfbook](https://github.com/dgryski/go-perfbook)
 
 ### Garbage Collection
 
