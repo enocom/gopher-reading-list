@@ -4,7 +4,7 @@ Here is a reading list of blog posts about Go. It aspires to include only the
 most useful and relevant material that anyone writing Go should eventually read.
 By defintion, the list is a work in progress.
 
-Rather than being comprensive, the list is a curated selection fixed at 200
+Rather than being comprehensive, the list is a curated selection fixed at 200
 entries.
 
 Go is growing fast and so are the number of blog posts about it. If an
