@@ -18,6 +18,7 @@ suggestion of what to add as well as what post to remove from the list.
 - [Frequently Asked Questions](https://golang.org/doc/faq)
 - [Go by Example](https://gobyexample.com/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/)
+- [Essential Go](https://www.programming-books.io/essential/go/)
 
 ## Beginner
 
