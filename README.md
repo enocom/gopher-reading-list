@@ -67,9 +67,8 @@ suggestion of what to add as well as what post to remove from the list.
 - [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How I Learned To Quit Worrying And Love Go's Interfaces](https://paddy.io/posts/go-interfaces/)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
-- [A Guide to Types and Casting in Golang : Programming and Development Blog | Stone River eLearning](http://blog.stoneriverelearning.com/a-guide-to-types-and-casting-in-golang/)
 
-### The Web
+### Web
 
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
 - [Making a RESTful JSON API in Go - The New Stack](http://thenewstack.io/make-a-restful-json-api-go/)
@@ -83,6 +82,7 @@ suggestion of what to add as well as what post to remove from the list.
 - [Simple Golang HTTP Request Context Example · Paul Fortin](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
 - [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
 - [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go/)
+- [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 
 ### Concurrency
 
