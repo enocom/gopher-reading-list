@@ -38,6 +38,7 @@ suggestion of what to add as well as what post to remove from the list.
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#ptr_receiver_val_inst)
 - [Unofficial Go FAQ](http://www.tapirgames.com/blog/golang-unofficial-faq)
+- [Learn Go Data Structures](https://flaviocopes.com/golang-data-structures/)
 
 ### Worth reading, again and again
 
@@ -274,6 +275,7 @@ suggestion of what to add as well as what post to remove from the list.
 
 - [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
 - [Custom JSON Marshalling in Go · Choly's Blog](http://choly.ca/post/go-json-marshalling/)
+- [JSON processing in Go](https://flaviocopes.com/go-json/)
 
 ### Miscellaneous
 
@@ -282,3 +284,4 @@ suggestion of what to add as well as what post to remove from the list.
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
 - [Advanced Reflection with Go at HashiCorp GopherAcademy](https://blog.gopheracademy.com/birthday-bash-2014/advanced-reflection-with-go-at-hashicorp/)
 - [go-fuzz github.com/arolek/ase - Damian Gryski](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
+- [Filesystem Structure of a Go project](https://flaviocopes.com/go-filesystem-structure/)
