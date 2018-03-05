@@ -106,6 +106,7 @@ suggestion of what to add as well as what post to remove from the list.
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
+- [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 
 ### Concurrency
 
@@ -139,7 +140,6 @@ suggestion of what to add as well as what post to remove from the list.
 - [Interfaces and Composition for Effective Unit Testing in Golang](http://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
 - [Go Testing Technique: Testing JSON HTTP Requests — Medium](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
-- [Testing Your (HTTP) Handlers in Go · go, web, go](https://elithrar.github.io/article/testing-http-handlers-go/)
 - [Testing Your (HTTP) Handlers in Go](http://blog.questionable.services/article/testing-http-handlers-go/)
 - [Testing concurrent code in Golang - JS Blog](https://www.jernejsila.com/2016/07/19/testing-concurrent-code-golang/)
 - [Compile-time assertions in Go · Don't Panic](http://commaok.xyz/post/compile-time-assertions/)
