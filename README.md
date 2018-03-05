@@ -107,6 +107,7 @@ length.
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
+- [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 
 ### Concurrency
@@ -163,7 +164,6 @@ length.
 - [Handle HTTP Request Errors in Go @ Alex Pliautau's Blog](http://pliutau.com/handle-http-request-errors-in-go/)
 - [Go Microservices blog series, part 1. | Callista Enterprise](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 - [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
-- [Serving Multiple Sites from One Go Process · zikes.me blog](http://blog.zikes.me/post/serving-multiple-sites-from-one-go-process/)
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 - [Implementing UDP vs TCP in Golang - Mina Andrawos](http://www.minaandrawos.com/2016/05/14/udp-vs-tcp-in-golang/)
 - [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
