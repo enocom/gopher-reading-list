@@ -37,7 +37,7 @@ length.
 - [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
 - [How to avoid Go gotchas · divan's blog](https://divan.github.io/posts/avoid_gotchas/)
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
-- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#ptr_receiver_val_inst)
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Unofficial Go FAQ](http://www.tapirgames.com/blog/golang-unofficial-faq)
 
 ### Worth reading, again and again
