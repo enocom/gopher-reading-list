@@ -236,11 +236,11 @@ length.
 - [unsafe.Pointer and system calls GopherAcademy](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
 - [Looking at your program’s structure in Go 1.7 · Paul Smith](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand · Scott Mansfield](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
+- [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
 
 ### Performance
 
 - [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
-- [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
 - [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 - [allegro.tech - Writing a very fast cache service with millions of entries in Go](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
