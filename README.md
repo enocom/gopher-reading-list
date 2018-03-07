@@ -158,7 +158,7 @@ length.
 - [How to not use an http-router in go](https://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html)
 - [How To Write Router Tests in Go — Tapjoy Engineering](http://eng.tapjoy.com/blog-list/how-to-write-router-tests-in-go)
 - [A brief intro of TCP keep-alive in Go’s HTTP implementation | Nan Xiao's Blog](http://nanxiao.me/en/a-brief-intro-of-tcp-keep-alive-in-gos-http-implementation/)
-- [Go: Marshal and Unmarshal JSON with time and URL data - Ukiah Smith](https://ukiahsmith.com/blog/go-marshal-and-unmarshal-json-with-time-and-url-data/)
+- [Build a Web Crawler in Go](https://jackcanty.com/build-a-web-crawler-in-go.html)
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](http://mmcloughlin.com/posts/your-pprof-is-showing)
 - [HTTP Request Contexts & Go · go, web, go](http://elithrar.github.io/article/map-string-interface/)
 - [Using Object-Oriented Web Servers in Go - via @codeship | via @codeship](https://blog.codeship.com/using-object-oriented-web-servers-go/)
