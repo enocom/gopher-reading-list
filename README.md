@@ -1,7 +1,7 @@
 # A Gopher's Reading List
 
-Here is a reading list of blog posts about [Go](https://golang.org). It aspires 
-to include only the most useful and relevant material that anyone writing Go 
+Here is a reading list of blog posts about [Go](https://golang.org). It aspires
+to include only the most useful and relevant material that anyone writing Go
 should eventually read. By defintion, the list is a work in progress.
 
 Rather than being comprehensive, the list is a curated selection fixed at 200
@@ -241,7 +241,7 @@ length.
 
 - [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
-- [Profiling memory usage of a Go app | Vince Yuan's technical blogs](http://vinceyuan.github.io/profiling-memory-usage-of-a-go-app/)
+- [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 - [allegro.tech - Writing a very fast cache service with millions of entries in Go](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
