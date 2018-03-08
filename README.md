@@ -123,7 +123,7 @@ length.
 - [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang)
 - [Context](https://peter.bourgon.org/blog/2016/07/11/context.html)
 - [Context and Cancellation of goroutines - http://dahernan.github.io](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
-- [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
+- [Dancing with Go's Mutexes](https://medium.com/m/global-identity?redirectUrl=https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
 - [GoRoutines, Channels, and Proper Exits - Rabarar's Blog](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
 - [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [Use sync.WaitGroup in Golang | Nan Xiao's Blog](http://nanxiao.me/en/use-sync-waitgroup-in-golang/)
@@ -217,7 +217,7 @@ length.
 - [Working with Files in Go | DevDungeon](https://www.devdungeon.com/content/working-files-go)
 - [Reading files in Go — an overview](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Golang: Working with Gzip and Tar](http://blog.ralch.com/tutorial/golang-working-with-tar-and-gzip/)
-- [Go Walkthrough: bytes + strings packages](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd)
+- [Go Walkthrough: bytes + strings packages](https://medium.com/go-walkthrough/go-walkthrough-bytes-strings-packages-499be9f4b5bd)
 
 ## Advanced
 
@@ -229,7 +229,7 @@ length.
 - [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
 - [The Go netpoller - Morsing's blog](https://morsmachine.dk/netpoller)
-- [Anatomy of a function call in Go](https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
+- [Anatomy of a function call in Go](https://medium.com/m/global-identity?redirectUrl=https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
 - [Scalable Go Scheduler Design Doc](https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit)
 - [Scheduler Tracing in Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
@@ -243,7 +243,7 @@ length.
 - [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
 - [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 - [allegro.tech - Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
-- [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+- [A Million WebSockets and Go – freeCodeCamp](https://medium.com/m/global-identity?redirectUrl=https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 
 ### Garbage Collection
