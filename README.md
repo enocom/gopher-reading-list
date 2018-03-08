@@ -25,7 +25,7 @@ length.
 ### Some basics
 
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
-- [5 Tips for Using Strings in Go](http://www.calhoun.io/5-tips-for-using-strings-in-go-2/)
+- [5 Tips for Using Strings in Go](https://www.calhoun.io/5-tips-for-using-strings-in-go-2/)
 - [Struct, Map, Array and Slice](https://letslearngo.wordpress.com/2016/01/09/struct-map-array-and-slice/)
 - [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 - [Tutorial: Go (Golang) Pointers in 5 Minutes | Giant Flying Saucer](http://www.giantflyingsaucer.com/blog/?p=4720)
@@ -44,8 +44,8 @@ length.
 
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize/)
-- [Strings, bytes, runes and characters in Go - The Go Blog](http://blog.golang.org/strings)
-- [Arrays, slices (and strings): The mechanics of 'append' - The Go Blog](http://blog.golang.org/slices)
+- [Strings, bytes, runes and characters in Go - The Go Blog](https://blog.golang.org/strings)
+- [Arrays, slices (and strings): The mechanics of 'append' - The Go Blog](https://blog.golang.org/slices)
 
 ### Organization and Style
 
@@ -63,8 +63,8 @@ length.
 - [The anatomy of a Go project - darian.af](http://darian.af/post/the-anatomy-of-a-golang-project/)
 - [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.h1wq1b1yt)
 - [Style guideline for Go packages · Go, the unwritten parts](https://rakyll.org/style-packages/)
-- [time in go](http://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
-- [The empty struct](http://dave.cheney.net/2014/03/25/the-empty-struct)
+- [time in go](https://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
+- [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
 - [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How I Learned To Quit Worrying And Love Go's Interfaces](https://paddy.io/posts/go-interfaces/)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
@@ -72,11 +72,11 @@ length.
 ### Web
 
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
-- [Making a RESTful JSON API in Go - The New Stack](http://thenewstack.io/make-a-restful-json-api-go/)
+- [Making a RESTful JSON API in Go - The New Stack](https://thenewstack.io/make-a-restful-json-api-go/)
 - [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang)
-- [An Intro To Templates in Go - Contextual Encoding](http://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
+- [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
-- [Making concurrent HTTP requests in Go programming language - Jinchuriki](http://blog.narenarya.in/concurrent-http-in-go.html)
+- [Making concurrent HTTP requests in Go programming language - Jinchuriki](https://blog.narenarya.in/concurrent-http-in-go.html)
 - [Golang http handlers as middleware - @capotej](http://capotej.com/blog/2013/10/07/golang-http-handlers-as-middleware/)
 - [A TCP Echo Server in Go (Golang) | Jim Lawless' Blog](https://lawlessguy.wordpress.com/2015/12/23/a-tcp-echo-server-in-go-golang/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
@@ -103,7 +103,7 @@ length.
 - [Golang: interface{}, type assertions and type switches](https://newfivefour.com/golang-interface-type-assertions-switch.html)
 - [Ensuring Go interface satisfaction at compile-time](https://medium.com/stupid-gopher-tricks/ensuring-go-interface-satisfaction-at-compile-time-1ed158e8fa17)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
-- [Structuring Applications for Growth](http://go-talks.appspot.com/github.com/gophercon/2016-talks/BenJohnson-StructuringApplicationsForGrowth/main.slide#1)
+- [Structuring Applications for Growth](https://go-talks.appspot.com/github.com/gophercon/2016-talks/BenJohnson-StructuringApplicationsForGrowth/main.slide)
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
@@ -128,7 +128,7 @@ length.
 - [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [Use sync.WaitGroup in Golang | Nan Xiao's Blog](http://nanxiao.me/en/use-sync-waitgroup-in-golang/)
 - [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
-- [Mutex Profile](http://rakyll.org/mutexprofile/)
+- [Mutex Profile](https://rakyll.org/mutexprofile/)
 - [Sane Concurrency with Go | Mozilla Services](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
 - [Goroutine Tracing](https://deferpanic.com/blog/goroutine-tracing/)
 - [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
@@ -140,7 +140,7 @@ length.
 - [5 simple tips and tricks for writing unit tests in #golang](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742)
 - [5 Advanced Testing Techniques in Go · Segment Blog](https://segment.com/blog/5-advanced-testing-techniques-in-go/)
 - [The Cult of Go Test](http://danmux.com/posts/the_cult_of_go_test/)
-- [Interfaces and Composition for Effective Unit Testing in Golang](http://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
+- [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
 - [Go Testing Technique: Testing JSON HTTP Requests — Medium](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
 - [Testing Your (HTTP) Handlers in Go](http://blog.questionable.services/article/testing-http-handlers-go/)
@@ -160,7 +160,7 @@ length.
 - [A brief intro of TCP keep-alive in Go’s HTTP implementation | Nan Xiao's Blog](http://nanxiao.me/en/a-brief-intro-of-tcp-keep-alive-in-gos-http-implementation/)
 - [Build a Web Crawler in Go](https://jackcanty.com/build-a-web-crawler-in-go.html)
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](http://mmcloughlin.com/posts/your-pprof-is-showing)
-- [HTTP Request Contexts & Go · go, web, go](http://elithrar.github.io/article/map-string-interface/)
+- [HTTP Request Contexts & Go · go, web, go](http://blog.questionable.services/article/map-string-interface/)
 - [Using Object-Oriented Web Servers in Go - via @codeship | via @codeship](https://blog.codeship.com/using-object-oriented-web-servers-go/)
 - [Handle HTTP Request Errors in Go @ Alex Pliautau's Blog](http://pliutau.com/handle-http-request-errors-in-go/)
 - [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
@@ -183,8 +183,8 @@ length.
 
 ### Trivia
 
-- [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide#1)
-- [Gopher Puzzlers](http://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1)
+- [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
+- [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide)
 - [Go gotcha: newbie or ninja?](http://yourbasic.org/golang/gotcha/)
 - [Advanced Go Tips And Tricks | Tit Petrič](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
 - [Golang slices gotcha · allegro.tech](https://allegro.tech/2017/07/golang-slices-gotcha.html)
@@ -204,7 +204,7 @@ length.
 - [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851)
 - [Crossing Streams: a Love Letter to io.Reader](http://jmoiron.net/blog/crossing-streams-a-love-letter-to-ioreader/)
 - [Function Types in Go (golang)](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
-- [research!rsc: Go Data Structures](http://research.swtch.com/godata)
+- [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 
 ### Miscellaneous
 
@@ -217,7 +217,7 @@ length.
 - [Working with Files in Go | DevDungeon](https://www.devdungeon.com/content/working-files-go)
 - [Reading files in Go — an overview](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Golang: Working with Gzip and Tar](http://blog.ralch.com/tutorial/golang-working-with-tar-and-gzip/)
-- [Go Walkthrough: bytes + strings packages](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd#.npfwnput4)
+- [Go Walkthrough: bytes + strings packages](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd)
 
 ## Advanced
 
@@ -231,7 +231,7 @@ length.
 - [The Go netpoller - Morsing's blog](https://morsmachine.dk/netpoller)
 - [Anatomy of a function call in Go](https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
 - [Scalable Go Scheduler Design Doc](https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit)
-- [Scheduler Tracing in Go](https://www.goinggo.net/2015/02/scheduler-tracing-in-go.html)
+- [Scheduler Tracing in Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 - [unsafe.Pointer and system calls GopherAcademy](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
 - [Looking at your program’s structure in Go 1.7 · Paul Smith](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
@@ -242,14 +242,14 @@ length.
 
 - [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
 - [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
-- [allegro.tech - Writing a very fast cache service with millions of entries in Go](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
+- [allegro.tech - Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 
 ### Garbage Collection
 
 - [Allocation Efficiency in High-Performance Go Services · Segment Blog](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
-- [Golang's Real-time GC in Theory and Practice - Pusher Blog](https://blog.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
+- [Golang's Real-time GC in Theory and Practice - Pusher Blog](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [How to Optimize Garbage Collection in Go | Cockroach Labs](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
 
 ### Concurrency
@@ -263,7 +263,7 @@ length.
 - [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
-- [Concurrency, Goroutines and GOMAXPROCS](https://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
+- [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Locking in crypto/rand](http://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
 
 ### Character encodings
