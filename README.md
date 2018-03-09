@@ -2,7 +2,7 @@
 
 Here is a reading list of blog posts about [Go](https://golang.org). It aspires
 to include only the most useful and relevant material that anyone writing Go
-should eventually read. By defintion, the list is a work in progress.
+should eventually read. By definition, the list is a work in progress.
 
 Rather than being comprehensive, the list is a curated selection fixed at 200
 entries.
