@@ -33,7 +33,7 @@ length.
 - [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
 - [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
-- [Curious Channels](https://dave.cheney.net/2013/04/30/curious-channels)
+- [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
 - [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
 - [How to avoid Go gotchas · divan's blog](https://divan.github.io/posts/avoid_gotchas/)
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
