@@ -195,7 +195,7 @@ length.
 - [Understanding Go Lang Memory Usage](https://deferpanic.com/blog/understanding-golang-memory-usage/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/)
-- [https://stackimpact.com/blog/practical-golang-benchmarks/](https://stackimpact.com/blog/practical-golang-benchmarks/)
+- [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
 
 ### Language
 
