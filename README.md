@@ -28,8 +28,6 @@ length.
 - [5 Tips for Using Strings in Go](https://www.calhoun.io/5-tips-for-using-strings-in-go-2/)
 - [Struct, Map, Array and Slice](https://letslearngo.wordpress.com/2016/01/09/struct-map-array-and-slice/)
 - [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
-- [Tutorial: Go (Golang) Pointers in 5 Minutes | Giant Flying Saucer](http://www.giantflyingsaucer.com/blog/?p=4720)
-- [Pointers](http://techioz.com/pointers-in-go/)
 - [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
 - [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
