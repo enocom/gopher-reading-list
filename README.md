@@ -52,6 +52,7 @@ length.
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 - [Errors](https://github.com/golang/go/wiki/Errors)
+- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling)
 - [Alternative Patterns for Method Overloading in Go](https://mymemorysucks.wordpress.com/2017/05/16/alternative-patterns-for-method-overloading-in-go/)
@@ -194,6 +195,7 @@ length.
 - [Understanding Go Lang Memory Usage](https://deferpanic.com/blog/understanding-golang-memory-usage/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/)
+- [https://stackimpact.com/blog/practical-golang-benchmarks/](https://stackimpact.com/blog/practical-golang-benchmarks/)
 
 ### Language
 
