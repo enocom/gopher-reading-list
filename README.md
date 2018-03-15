@@ -25,7 +25,7 @@ length.
 ### Some basics
 
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
-- [5 Tips for Using Strings in Go](https://www.calhoun.io/5-tips-for-using-strings-in-go-2/)
+- [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Struct, Map, Array and Slice](https://letslearngo.wordpress.com/2016/01/09/struct-map-array-and-slice/)
 - [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 - [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
