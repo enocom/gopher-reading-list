@@ -14,9 +14,9 @@ length.
 
 ## Start Here
 
-- [Go Koans](https://github.com/cdarwin/go-koans)
+- [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
-- [Frequently Asked Questions](https://golang.org/doc/faq)
+- [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go by Example](https://gobyexample.com/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/)
 
@@ -60,7 +60,7 @@ length.
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
 - [Organizing Go Code](https://blog.golang.org/organizing-go-code)
 - [The anatomy of a Go project - darian.af](http://darian.af/post/the-anatomy-of-a-golang-project/)
-- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1#.h1wq1b1yt)
+- [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages · Go, the unwritten parts](https://rakyll.org/style-packages/)
 - [time in go](https://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
 - [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
