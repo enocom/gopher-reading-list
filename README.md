@@ -14,6 +14,7 @@ length.
 
 ## Start Here
 
+- [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Go Koans](https://github.com/cdarwin/go-koans)
@@ -26,7 +27,6 @@ length.
 
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
-- [Struct, Map, Array and Slice](https://letslearngo.wordpress.com/2016/01/09/struct-map-array-and-slice/)
 - [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 - [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
