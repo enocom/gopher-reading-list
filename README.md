@@ -144,7 +144,7 @@ length.
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
 - [Testing Your (HTTP) Handlers in Go](http://blog.questionable.services/article/testing-http-handlers-go/)
 - [Testing concurrent code in Golang - JS Blog](https://www.jernejsila.com/2016/07/19/testing-concurrent-code-golang/)
-- [Compile-time assertions in Go · Don't Panic](http://commaok.xyz/post/compile-time-assertions/)
+- [Learn Go by writing tests](https://dev.to/quii/learn-go-by-writing-tests--m63)
 - [Unit Testing Golang HTTP Middleware](https://medium.com/@PurdonKyle/unit-testing-golang-http-middleware-c7727ca896ea)
 - [Lesser-Known Features of Go Test - Blog | Splice](https://splice.com/blog/lesser-known-features-go-test/)
 
