@@ -96,7 +96,7 @@ length.
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
 - [Aspects of a good Go library – Jack Lindamood – Medium](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
-- [The package level logger anti-pattern](https://dave.cheney.net/2017/01/23/the-package-level-logger-anti-pattern)
+- [Go Object Oriented Design](https://nathany.com/good/)
 - [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
