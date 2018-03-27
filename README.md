@@ -17,6 +17,7 @@ length.
 - [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
+- [Frequently Asked Questions](https://golang.org/doc/faq)
 - [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go by Example](https://gobyexample.com/)
 - [Go Bootcamp](http://www.golangbootcamp.com/book/)
@@ -169,7 +170,6 @@ length.
 - [Writing an API Client in Go GopherAcademy](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object GopherAcademy](https://blog.gopheracademy.com/advent-2017/seekable-http/)
 - [Using Functions Inside Go Templates - Calhoun.io](https://www.calhoun.io/intro-to-templates-p3-functions/)
-- [Configuring Go Apps with TOML - Benaiah Mischenko](https://benaiah.me/posts/configuring-go-apps-with-toml/)
 - [Writing a Data Mapper in Go without an ORM](http://www.meetspaceapp.com/2016/05/23/writing-a-data-mapper-in-go-without-an-orm.html)
 - [Practical Persistence in Go: Organising Database Access](http://www.alexedwards.net/blog/organising-database-access)
 
