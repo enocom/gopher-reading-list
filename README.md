@@ -8,7 +8,7 @@ Rather than being comprehensive, the list is a curated selection fixed at 200
 entries.
 
 Go is growing fast and so are the number of blog posts about it. If an
-interested reader knows of a great post not in this list, please open a pull request. 
+interested reader knows of a great post not in this list, please open a pull request.
 Include your suggestion of what to add and what to remove to keep the list at its fixed
 length.
 
@@ -281,5 +281,5 @@ length.
 - [Mutable strings in Golang – Koki – Medium](https://medium.com/kokster/mutable-strings-in-golang-298d422d01bc)
 - [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
-- [Advanced Reflection with Go at HashiCorp GopherAcademy](https://blog.gopheracademy.com/birthday-bash-2014/advanced-reflection-with-go-at-hashicorp/)
+- [go-internals](https://github.com/teh-cmc/go-internals)
 - [go-fuzz github.com/arolek/ase - Damian Gryski](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
