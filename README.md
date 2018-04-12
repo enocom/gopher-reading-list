@@ -211,7 +211,7 @@ length.
 - [Always Be Closing](https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da)
 - [Don't defer Close() on writable files](https://joeshaw.org/dont-defer-close-on-writable-files/)
 - [Examples For Using io.Pipe in Go - zupzup](https://zupzup.org/io-pipe-go/)
-- [Reducing boilerplate with go generate](https://blog.gopheracademy.com/advent-2015/reducing-boilerplate-with-go-generate/)
+- [How to Use go:generate](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 - [Writing worker queues, in Go](http://nesv.github.io/golang/2014/02/25/worker-queues-in-go.html)
 - [Job Queues in Go - OpsDash](https://www.opsdash.com/blog/job-queues-in-go.html)
 - [Working with Files in Go | DevDungeon](https://www.devdungeon.com/content/working-files-go)
