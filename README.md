@@ -76,7 +76,7 @@ length.
 - [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang)
 - [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
-- [Making concurrent HTTP requests in Go programming language - Jinchuriki](https://blog.narenarya.in/concurrent-http-in-go.html)
+- [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
 - [Golang http handlers as middleware - @capotej](http://capotej.com/blog/2013/10/07/golang-http-handlers-as-middleware/)
 - [A TCP Echo Server in Go (Golang) | Jim Lawless' Blog](https://lawlessguy.wordpress.com/2015/12/23/a-tcp-echo-server-in-go-golang/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
