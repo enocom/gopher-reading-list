@@ -101,7 +101,6 @@ length.
 - [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
-- [Golang: interface{}, type assertions and type switches](https://newfivefour.com/golang-interface-type-assertions-switch.html)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
 - [Structuring Applications for Growth](https://go-talks.appspot.com/github.com/gophercon/2016-talks/BenJohnson-StructuringApplicationsForGrowth/main.slide)
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
@@ -148,6 +147,7 @@ length.
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Unit Testing Golang HTTP Middleware](https://medium.com/@PurdonKyle/unit-testing-golang-http-middleware-c7727ca896ea)
 - [Lesser-Known Features of Go Test - Blog | Splice](https://splice.com/blog/lesser-known-features-go-test/)
+- [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
 
 ### Web
 
