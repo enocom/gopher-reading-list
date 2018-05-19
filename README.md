@@ -230,7 +230,6 @@ length.
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
 - [The Go netpoller - Morsing's blog](https://morsmachine.dk/netpoller)
 - [Anatomy of a function call in Go](https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
-- [Scalable Go Scheduler Design Doc](https://docs.google.com/document/d/1TTj4T2JO42uD5ID9e89oa0sLKhJYD0Y_kqxDv3I3XMw/edit)
 - [Scheduler Tracing in Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 - [unsafe.Pointer and system calls GopherAcademy](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
@@ -283,3 +282,4 @@ length.
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
 - [go-internals](https://github.com/teh-cmc/go-internals)
 - [go-fuzz github.com/arolek/ase - Damian Gryski](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
+- [Learning Go: Lexing and Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
