@@ -73,11 +73,11 @@ length.
 
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
 - [Making a RESTful JSON API in Go - The New Stack](https://thenewstack.io/make-a-restful-json-api-go/)
+- [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355)
 - [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang)
 - [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
-- [Golang http handlers as middleware - @capotej](http://capotej.com/blog/2013/10/07/golang-http-handlers-as-middleware/)
 - [A TCP Echo Server in Go (Golang) | Jim Lawless' Blog](https://lawlessguy.wordpress.com/2015/12/23/a-tcp-echo-server-in-go-golang/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
 - [Simple Golang HTTP Request Context Example · Paul Fortin](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
