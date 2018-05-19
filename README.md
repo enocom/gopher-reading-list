@@ -8,9 +8,11 @@ Rather than being comprehensive, the list is a curated selection fixed at 200
 entries.
 
 Go is growing fast and so are the number of blog posts about it. If an
-interested reader knows of a great post not in this list, please open a pull request.
-Include your suggestion of what to add and what to remove to keep the list at its fixed
-length.
+interested reader knows of a great post not on this list, please open an issue
+with a link to the post. 
+
+**NOTE:** Any new additions will need to replace
+something else on the list to keep it at a fixed length.
 
 ## Start Here
 
