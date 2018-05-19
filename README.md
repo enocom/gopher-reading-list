@@ -125,7 +125,6 @@ length.
 - [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
 - [GoRoutines, Channels, and Proper Exits - Rabarar's Blog](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
 - [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
-- [Use sync.WaitGroup in Golang | Nan Xiao's Blog](http://nanxiao.me/en/use-sync-waitgroup-in-golang/)
 - [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
 - [Mutex Profile](https://rakyll.org/mutexprofile/)
 - [Sane Concurrency with Go | Mozilla Services](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
@@ -172,6 +171,7 @@ length.
 - [Using Functions Inside Go Templates - Calhoun.io](https://www.calhoun.io/intro-to-templates-p3-functions/)
 - [Writing a Data Mapper in Go without an ORM](http://www.meetspaceapp.com/2016/05/23/writing-a-data-mapper-in-go-without-an-orm.html)
 - [Practical Persistence in Go: Organising Database Access](http://www.alexedwards.net/blog/organising-database-access)
+- [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 
 ### Tools
 
