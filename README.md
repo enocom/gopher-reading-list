@@ -58,7 +58,7 @@ something else on the list to keep it at a fixed length.
 - [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling)
-- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/directory-structure-and-manual-wiring/)
+- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
 - [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
 - [Organizing Go Code](https://blog.golang.org/organizing-go-code)
