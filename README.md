@@ -144,7 +144,7 @@ something else on the list to keep it at a fixed length.
 - [Go Testing Technique: Testing JSON HTTP Requests — Medium](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
 - [Testing Your (HTTP) Handlers in Go](http://blog.questionable.services/article/testing-http-handlers-go/)
-- [Testing concurrent code in Golang - JS Blog](https://www.jernejsila.com/2016/07/19/testing-concurrent-code-golang/)
+- [Go test your tests in Go with go test](https://deadbeef.me/2018/05/go-test)
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Unit Testing Golang HTTP Middleware](https://medium.com/@PurdonKyle/unit-testing-golang-http-middleware-c7727ca896ea)
 - [Lesser-Known Features of Go Test - Blog | Splice](https://splice.com/blog/lesser-known-features-go-test/)
