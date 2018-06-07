@@ -80,7 +80,7 @@ something else on the list to keep it at a fixed length.
 - [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
-- [A TCP Echo Server in Go (Golang) | Jim Lawless' Blog](https://lawlessguy.wordpress.com/2015/12/23/a-tcp-echo-server-in-go-golang/)
+- [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
 - [Simple Golang HTTP Request Context Example · Paul Fortin](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
 - [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
