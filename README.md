@@ -243,7 +243,7 @@ something else on the list to keep it at a fixed length.
 
 - [Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/?utm_source=golangweekly&utm_medium=email)
 - [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
-- [allegro.tech - Writing a very fast cache service with millions of entries in Go](https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
+- [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
 - [A Million WebSockets and Go – freeCodeCamp](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 
