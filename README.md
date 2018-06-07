@@ -82,7 +82,7 @@ something else on the list to keep it at a fixed length.
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
-- [Simple Golang HTTP Request Context Example · Paul Fortin](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
+- [Writing middleware in #golang and how Go makes it so much fun.](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
 - [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 
