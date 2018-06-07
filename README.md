@@ -84,11 +84,11 @@ something else on the list to keep it at a fixed length.
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
 - [Simple Golang HTTP Request Context Example · Paul Fortin](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
 - [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
-- [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 
 ### Concurrency
 
+- [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 - [Data races in Go(Golang) and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
 - [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
 
