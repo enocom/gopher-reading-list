@@ -235,6 +235,7 @@ something else on the list to keep it at a fixed length.
 - [Scheduler Tracing in Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 - [unsafe.Pointer and system calls GopherAcademy](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
+- [Type-Unsafe Pointers](https://go101.org/article/unsafe.html)
 - [Looking at your program’s structure in Go 1.7 · Paul Smith](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand · Scott Mansfield](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
@@ -255,7 +256,6 @@ something else on the list to keep it at a fixed length.
 
 ### Concurrency
 
-- [Debugging a potential deadlock in Go](https://wavded.com/post/golang-deadlockish/)
 - [Advanced Go Concurrency Patterns - The Go Blog](https://blog.golang.org/advanced-go-concurrency-patterns)
 - [Multiplexing Golang Channels to Maximize Throughput | The MongoDB Engineering Journal](https://engineering.mongodb.com/post/multiplexing-golang-channels-to-maximize-throughput/)
 - [Golang lock-free values with atomic.Value](https://texlution.com/post/golang-lock-free-values-with-atomic-value/)
