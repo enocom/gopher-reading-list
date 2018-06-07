@@ -65,7 +65,7 @@ something else on the list to keep it at a fixed length.
 - [The anatomy of a Go project - darian.af](http://darian.af/post/the-anatomy-of-a-golang-project/)
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages · Go, the unwritten parts](https://rakyll.org/style-packages/)
-- [time in go](https://bl.ocks.org/joyrexus/a56717634a672dcdfd48)
+- [Package names](https://blog.golang.org/package-names)
 - [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
 - [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How I Learned To Quit Worrying And Love Go's Interfaces](https://paddy.io/posts/go-interfaces/)
