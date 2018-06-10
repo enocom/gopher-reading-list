@@ -28,17 +28,17 @@ something else on the list to keep it at a fixed length.
 
 ### Some basics
 
-- [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
-- [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
+- [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
-- [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
 - [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
 - [How to avoid Go gotchas · divan's blog](https://divan.github.io/posts/avoid_gotchas/)
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+- [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
+- [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Unofficial Go FAQ](http://www.tapirgames.com/blog/golang-unofficial-faq)
 
 ### Worth reading, again and again
