@@ -86,7 +86,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
-- [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
 - [Writing middleware in #golang and how Go makes it so much fun.](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
 - [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
@@ -96,6 +95,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 - [Data races in Go(Golang) and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
 - [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
+- [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975)
 
 ## Intermediate
 
