@@ -109,7 +109,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
-- [Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/)
+- [How to organize the go struct, in order to save memory](https://medium.com/@felipedutratine/how-to-organize-the-go-struct-in-order-to-save-memory-c78afcf59ec2)
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
