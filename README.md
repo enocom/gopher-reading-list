@@ -22,7 +22,6 @@ something else on the list to keep it at a fixed length.
 - [Frequently Asked Questions](https://golang.org/doc/faq)
 - [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go by Example](https://gobyexample.com/)
-- [Go Bootcamp](http://www.golangbootcamp.com/book/)
 
 ## Beginner
 
@@ -48,6 +47,13 @@ something else on the list to keep it at a fixed length.
 - [Strings, bytes, runes and characters in Go - The Go Blog](https://blog.golang.org/strings)
 - [Arrays, slices (and strings): The mechanics of 'append' - The Go Blog](https://blog.golang.org/slices)
 
+## Online Books
+
+- [Go Bootcamp](http://www.golangbootcamp.com/book/)
+- [Go 101](https://go101.org/article/101.html)
+
+See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, both free and paid.
+
 ### Organization and Style
 
 - [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
@@ -68,7 +74,6 @@ something else on the list to keep it at a fixed length.
 - [Package names](https://blog.golang.org/package-names)
 - [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
 - [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
-- [How I Learned To Quit Worrying And Love Go's Interfaces](https://paddy.io/posts/go-interfaces/)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ### Web
