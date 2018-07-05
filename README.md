@@ -219,7 +219,7 @@ something else on the list to keep it at a fixed length.
 - [Working with Files in Go | DevDungeon](https://www.devdungeon.com/content/working-files-go)
 - [Reading files in Go — an overview](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Golang: Working with Gzip and Tar](http://blog.ralch.com/tutorial/golang-working-with-tar-and-gzip/)
-- [Go Walkthrough: bytes + strings packages](https://medium.com/@benbjohnson/go-walkthrough-bytes-strings-packages-499be9f4b5bd)
+- [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 
 ## Advanced
 
