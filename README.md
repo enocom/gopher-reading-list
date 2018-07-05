@@ -54,7 +54,7 @@ something else on the list to keep it at a fixed length.
 - [command center: Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
-- [Errors](https://github.com/golang/go/wiki/Errors)
+- [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 - [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling)
