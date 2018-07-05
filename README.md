@@ -47,7 +47,7 @@ something else on the list to keep it at a fixed length.
 - [Strings, bytes, runes and characters in Go - The Go Blog](https://blog.golang.org/strings)
 - [Arrays, slices (and strings): The mechanics of 'append' - The Go Blog](https://blog.golang.org/slices)
 
-## Online Books
+### Online Books
 
 - [Go Bootcamp](http://www.golangbootcamp.com/book/)
 - [Go 101](https://go101.org/article/101.html)
