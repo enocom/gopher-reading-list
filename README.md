@@ -105,7 +105,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Aspects of a good Go library – Jack Lindamood – Medium](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
-- [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6)
+- [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
