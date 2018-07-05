@@ -56,23 +56,23 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 ### Organization and Style
 
-- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [command center: Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
 - [Go Proverbs](https://go-proverbs.github.io/)
+- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
-- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
-- [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling)
-- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
+- [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
+- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
+- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
 - [Organizing Go Code](https://blog.golang.org/organizing-go-code)
 - [The anatomy of a Go project - darian.af](http://darian.af/post/the-anatomy-of-a-golang-project/)
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages · Go, the unwritten parts](https://rakyll.org/style-packages/)
 - [Package names](https://blog.golang.org/package-names)
-- [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
 - [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
