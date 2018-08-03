@@ -127,7 +127,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 - [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang)
-- [Context](https://peter.bourgon.org/blog/2016/07/11/context.html)
 - [Context and Cancellation of goroutines](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
 - [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
 - [GoRoutines, Channels, and Proper Exits](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
@@ -137,6 +136,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Sane Concurrency with Go](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
 - [Goroutine Tracing](https://deferpanic.com/blog/goroutine-tracing/)
 - [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
+- [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
 
 ### Testing
 
