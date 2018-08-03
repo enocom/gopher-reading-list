@@ -36,7 +36,7 @@ something else on the list to keep it at a fixed length.
 - [How to avoid Go gotchas](https://divan.github.io/posts/avoid_gotchas/)
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
-- [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
+- [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Unofficial Go FAQ](http://www.tapirgames.com/blog/golang-unofficial-faq)
 
