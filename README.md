@@ -223,7 +223,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Job Queues in Go - OpsDash](https://www.opsdash.com/blog/job-queues-in-go.html)
 - [Working with Files in Go](https://www.devdungeon.com/content/working-files-go)
 - [Reading files in Go](http://kgrz.io/reading-files-in-go-an-overview.html)
-- [Golang: Working with Gzip and Tar](http://blog.ralch.com/tutorial/golang-working-with-tar-and-gzip/)
+- [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 
 ## Advanced
