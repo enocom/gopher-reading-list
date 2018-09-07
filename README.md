@@ -75,6 +75,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Package names](https://blog.golang.org/package-names)
 - [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
 
 ### Web
 
