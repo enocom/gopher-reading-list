@@ -134,7 +134,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
 - [Mutex Profile](https://rakyll.org/mutexprofile/)
 - [Sane Concurrency with Go](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
-- [Goroutine Tracing](https://deferpanic.com/blog/goroutine-tracing/)
 - [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
 - [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
 
@@ -199,7 +198,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Diagnostics](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
-- [Understanding Go Lang Memory Usage](https://deferpanic.com/blog/understanding-golang-memory-usage/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Logging, interfaces, and allocation](http://commaok.xyz/post/interface-allocs/)
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
@@ -238,12 +236,12 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [The Go netpoller](https://morsmachine.dk/netpoller)
 - [Anatomy of a function call in Go](https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
 - [Scheduler Tracing in Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
-- [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 - [unsafe.Pointer and system calls](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
 - [Type-Unsafe Pointers](https://go101.org/article/unsafe.html)
 - [Looking at your program’s structure in Go 1.7](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
+- [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 
 ### Performance
 
