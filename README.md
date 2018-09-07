@@ -116,6 +116,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
+- [Error handling in Upsin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 
 ### Concurrency
 
