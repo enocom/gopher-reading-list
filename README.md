@@ -82,7 +82,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
 - [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 - [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355)
-- [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang)
+- [Serving Static Sites with Go](https://www.alexedwards.net/blog/serving-static-sites-with-go)
 - [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
