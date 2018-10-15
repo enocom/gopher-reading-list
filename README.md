@@ -9,7 +9,7 @@ entries.
 
 Go is growing fast and so are the number of blog posts about it. If an
 interested reader knows of a great post not on this list, please open an issue
-with a link to the post. 
+with a link to the post.
 
 **NOTE:** Any new additions will need to replace
 something else on the list to keep it at a fixed length.
@@ -235,7 +235,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Go Assembly by Example](http://davidwong.fr/goasm/)
 - [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
-- [The Go netpoller](https://morsmachine.dk/netpoller)
+- [Scheduling In Go - Part II](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
 - [Anatomy of a function call in Go](https://syslog.ravelin.com/anatomy-of-a-function-call-in-go-f6fc81b80ecc)
 - [Scheduler Tracing in Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
 - [unsafe.Pointer and system calls](https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/)
