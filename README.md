@@ -138,6 +138,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Sane Concurrency with Go](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
 - [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
 - [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
+- [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 
 ### Testing
 
@@ -272,11 +273,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Locking in crypto/rand](http://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
 
-### Character encodings
-
-- [Text normalization in Go](https://blog.golang.org/normalization)
-- [Go Quickly - Converting Character Encodings In Golang](http://technosophos.com/2016/03/09/go-quickly-converting-character-encodings.html)
-
 ### JSON Encoding and Decoding
 
 - [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
@@ -284,6 +280,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 ### Miscellaneous
 
+- [Text normalization in Go](https://blog.golang.org/normalization)
 - [Mutable strings in Golang](https://medium.com/kokster/mutable-strings-in-golang-298d422d01bc)
 - [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
