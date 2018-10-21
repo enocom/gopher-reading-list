@@ -160,6 +160,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 ### Dependency Management
 - [An Intro to dependency management with Go](https://medium.freecodecamp.org/an-intro-to-dep-how-to-manage-your-golang-project-dependencies-7b07d84e7ba5)
 - [Go Modules (Introduced experimentally in Go 1.11.0)](https://github.com/golang/go/wiki/Modules)
+- [A gentle introduction to Go Modules](https://ukiahsmith.com/blog/a-gentle-introduction-to-golang-modules/)
 
 ### Web
 
