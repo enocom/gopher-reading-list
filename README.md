@@ -157,6 +157,10 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
 
+### Dependency Management
+- [An Intro to dependency management with Go](https://medium.freecodecamp.org/an-intro-to-dep-how-to-manage-your-golang-project-dependencies-7b07d84e7ba5)
+- [Go Modules (Introduced experimentally in Go 1.11.0)](https://github.com/golang/go/wiki/Modules)
+
 ### Web
 
 - [Exposing Go on the Internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/)
