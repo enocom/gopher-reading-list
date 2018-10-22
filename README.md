@@ -90,6 +90,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
 - [Go and JSON](https://eager.io/blog/go-and-json/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
+- [Go Web Programming](- [Learn Web Programming in Go by Examples](https://gowebexamples.com/))
 
 ### Concurrency
 
