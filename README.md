@@ -75,7 +75,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Package names](https://blog.golang.org/package-names)
 - [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
-- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
+
 
 ### Web
 
@@ -156,6 +156,11 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Unit Testing Golang HTTP Middleware](https://medium.com/@PurdonKyle/unit-testing-golang-http-middleware-c7727ca896ea)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
+
+### Go Modules
+
+- [Go Modules (Introduced experimentally in Go 1.11.0)](https://github.com/golang/go/wiki/Modules)
+- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
 
 ### Web
 
