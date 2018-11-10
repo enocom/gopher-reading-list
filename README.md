@@ -267,7 +267,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 ### Concurrency
 
 - [Advanced Go Concurrency Patterns](https://blog.golang.org/advanced-go-concurrency-patterns)
-- [Multiplexing Golang Channels to Maximize Throughput](https://engineering.mongodb.com/post/multiplexing-golang-channels-to-maximize-throughput/)
+- [The X-Files: Avoiding Concurrency Boilerplate with golang.org/x/sync](https://rodaine.com/2018/08/x-files-sync-golang/)
 - [Golang lock-free values with atomic.Value](https://texlution.com/post/golang-lock-free-values-with-atomic-value/)
 - [Share Memory by Communicating](https://blog.golang.org/share-memory-by-communicating)
 - [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
