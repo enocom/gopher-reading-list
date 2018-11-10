@@ -76,7 +76,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
-
 ### Web
 
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
@@ -85,11 +84,11 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Serving Static Sites with Go](https://www.alexedwards.net/blog/serving-static-sites-with-go)
 - [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
-- [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
 - [Go and JSON](https://eager.io/blog/go-and-json/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
+- [Accessing data in Go](https://husio.github.io/blog/post/accessing-data-in-go/)
 
 ### Concurrency
 
@@ -227,7 +226,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [How to Use go:generate](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 - [Writing worker queues, in Go](http://nesv.github.io/golang/2014/02/25/worker-queues-in-go.html)
 - [Job Queues in Go - OpsDash](https://www.opsdash.com/blog/job-queues-in-go.html)
-- [Working with Files in Go](https://www.devdungeon.com/content/working-files-go)
 - [Reading files in Go](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
