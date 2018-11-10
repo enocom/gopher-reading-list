@@ -248,6 +248,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Managing Syscall Overhead with crypto/rand](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
+- [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html)
 
 ### Performance
 
@@ -268,7 +269,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Advanced Go Concurrency Patterns](https://blog.golang.org/advanced-go-concurrency-patterns)
 - [Multiplexing Golang Channels to Maximize Throughput](https://engineering.mongodb.com/post/multiplexing-golang-channels-to-maximize-throughput/)
 - [Golang lock-free values with atomic.Value](https://texlution.com/post/golang-lock-free-values-with-atomic-value/)
-- [Stateful locks in Go](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
 - [Share Memory by Communicating](https://blog.golang.org/share-memory-by-communicating)
 - [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
