@@ -275,6 +275,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Locking in crypto/rand](http://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
+- [Stateful locks in Go](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
 
 ### JSON Encoding and Decoding
 
@@ -284,7 +285,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 ### Miscellaneous
 
 - [Text normalization in Go](https://blog.golang.org/normalization)
-- [Mutable strings in Golang](https://medium.com/kokster/mutable-strings-in-golang-298d422d01bc)
 - [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
 - [go-internals](https://github.com/teh-cmc/go-internals)
