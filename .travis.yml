@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.5
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot --allow-redirect --allow-dupe README.md
