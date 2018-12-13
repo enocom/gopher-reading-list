@@ -96,6 +96,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Data races in Go(Golang) and how to fix them](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
 - [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
 - [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975)
+- [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
 ## Intermediate
 
@@ -197,7 +198,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
 - [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide)
-- [Go gotcha: newbie or ninja?](http://yourbasic.org/golang/gotcha/)
 - [Advanced Go Tips And Tricks](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
 - [Golang slices gotcha](https://allegro.tech/2017/07/golang-slices-gotcha.html)
 
