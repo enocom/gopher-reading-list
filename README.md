@@ -117,6 +117,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upsin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
+- [Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)
 
 ### Concurrency
 
@@ -206,7 +207,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Diagnostics](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
-- [Logging, interfaces, and allocation](http://commaok.xyz/post/interface-allocs/)
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
 
 ### Language
