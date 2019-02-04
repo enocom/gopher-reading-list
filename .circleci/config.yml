@@ -8,11 +8,11 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - v1-gem-cache-{{ .Branch }}
-            - v1-gem-cache-
-      - run: gem install awesome_bot --user-install
+            - v1.1-gem-cache-{{ .Branch }}
+            - v1.1-gem-cache-
+      - run: gem install awesome_bot
       - save_cache:
-          key: v1-gem-cache-{{ .Branch }}
+          key: v1.1-gem-cache-{{ .Branch }}
           paths:
-            - "/usr/local/bundle/"
+            - "/usr/local/bundle/*"
       - run: awesome_bot --allow-redirect --allow-dupe README.md
