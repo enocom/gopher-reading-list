@@ -1,0 +1,18 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.6.1
+    working_directory: ~/gopher-reading-list
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-gem-cache-{{ .Branch }}
+            - v1-gem-cache-
+      - run: gem install awesome_bot --user-install
+      - save_cache:
+          key: v1-gem-cache-{{ .Branch }}
+          paths:
+            - "/usr/local/bundle/"
+      - run: awesome_bot --allow-redirect --allow-dupe README.md
