@@ -83,7 +83,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355)
 - [Serving Static Sites with Go](https://www.alexedwards.net/blog/serving-static-sites-with-go)
 - [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
-- [Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
 - [Go and JSON](https://eager.io/blog/go-and-json/)
@@ -118,6 +117,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upsin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 - [Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)
+- [Stop writing broken Go libraries](https://0x46.net/thoughts/2018/12/29/go-libraries/)
 
 ### Concurrency
 
