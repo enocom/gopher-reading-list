@@ -125,7 +125,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Stopping goroutines](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb)
 - [Ways to limit concurrent resource use](https://pocketgophers.com/limit-concurrent-use/)
 - [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff)
-- [Cancelling Multiple Goroutines](https://chilts.org/2017/06/12/cancelling-multiple-goroutines)
 - [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7)
 - [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
@@ -217,6 +216,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Crossing Streams: a Love Letter to io.Reader](http://jmoiron.net/blog/crossing-streams-a-love-letter-to-ioreader/)
 - [Function Types in Go (golang)](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
+- [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
 
 ### Miscellaneous
 
