@@ -97,6 +97,11 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975)
 - [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
+### Go Modules
+
+- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
+- [Using Go Modules](https://blog.golang.org/using-go-modules)
+
 ## Intermediate
 
 ### Code Design
@@ -156,11 +161,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Unit Testing Golang HTTP Middleware](https://medium.com/@PurdonKyle/unit-testing-golang-http-middleware-c7727ca896ea)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
-
-### Go Modules
-
-- [Go Modules (Introduced experimentally in Go 1.11.0)](https://github.com/golang/go/wiki/Modules)
-- [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
 
 ### Web
 
