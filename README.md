@@ -247,7 +247,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Looking at your program’s structure in Go 1.7](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
-- [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 - [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html)
 
 ### Performance
