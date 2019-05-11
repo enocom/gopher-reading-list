@@ -56,12 +56,12 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 ### Organization and Style
 
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
 - [Go Proverbs](https://go-proverbs.github.io/)
 - [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
-- [Effective error handling in Go](https://morsmachine.dk/error-handling)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
