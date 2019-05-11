@@ -80,7 +80,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
 - [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
-- [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355)
 - [Serving Static Sites with Go](https://www.alexedwards.net/blog/serving-static-sites-with-go)
 - [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
@@ -189,6 +188,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 ### Tools
 
+- [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [Go tooling essentials](https://rakyll.org/go-tool-flags/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Go Tooling in Action](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
