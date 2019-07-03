@@ -177,7 +177,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Handle HTTP Request Errors in Go](http://pliutau.com/handle-http-request-errors-in-go/)
 - [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
-- [Implementing UDP vs TCP in Golang](http://www.minaandrawos.com/2016/05/14/udp-vs-tcp-in-golang/)
 - [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 - [Writing an API Client in Go](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object](https://blog.gopheracademy.com/advent-2017/seekable-http/)
@@ -256,6 +255,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Go code refactoring : the 23x performance hunt](https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7)
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 
 ### Garbage Collection
 
