@@ -127,7 +127,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Concurrency Patterns](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
 - [Stopping goroutines](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb)
-- [Ways to limit concurrent resource use](https://pocketgophers.com/limit-concurrent-use/)
 - [Make Ctrl+C cancel the context.Context](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff)
 - [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7)
 - [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
@@ -263,6 +262,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Golang's Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [How to Optimize Garbage Collection in Go](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
 - [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
+- [Garbage Collection in Go](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 
 ### Concurrency
 
