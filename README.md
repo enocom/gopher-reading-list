@@ -92,7 +92,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 - [Data races in Go(Golang) and how to fix them](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
-- [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
 - [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975)
 - [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
@@ -100,6 +99,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
+- [Ardan Labs | Modules](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
 
 ## Intermediate
 
