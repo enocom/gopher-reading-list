@@ -99,7 +99,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Introduction to Go modules](https://roberto.selbach.ca/intro-to-go-modules/)
 - [Using Go Modules](https://blog.golang.org/using-go-modules)
-- [Ardan Labs | Modules](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
+- [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
 
 ## Intermediate
 
