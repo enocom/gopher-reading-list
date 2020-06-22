@@ -17,6 +17,7 @@ something else on the list to keep it at a fixed length.
 ## Start Here
 
 - [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
+- [An Intro to Go for non-Go developers](https://benhoyt.com/writings/go-intro/)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Frequently Asked Questions](https://golang.org/doc/faq)
@@ -31,7 +32,6 @@ something else on the list to keep it at a fixed length.
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
-- [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
 - [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
 - [How to avoid Go gotchas](https://divan.github.io/posts/avoid_gotchas/)
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
@@ -204,6 +204,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
+- [Debugging Go Applications using Delve](https://golangbot.com/debugging-go-delve/)
 
 ### Language
 
@@ -211,7 +212,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Golang: pass by pointer vs pass by value](http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/)
 - [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
 - [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851)
-- [Crossing Streams: a Love Letter to io.Reader](http://jmoiron.net/blog/crossing-streams-a-love-letter-to-ioreader/)
 - [Function Types in Go (golang)](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
