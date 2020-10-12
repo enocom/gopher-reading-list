@@ -9,7 +9,9 @@ entries.
 
 Go is growing fast and so are the number of blog posts about it. If an
 interested reader knows of a great post not on this list, please open an issue
-with a link to the post.
+with a link to the post. Not every blog post linked in an issue will make its way
+into the list. Nonetheless, the [issue list](https://github.com/enocom/gopher-reading-list/issues)
+(both open and closed) is a good source of additional reading material.
 
 **NOTE:** Any new additions will need to replace
 something else on the list to keep it at a fixed length.
