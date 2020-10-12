@@ -121,7 +121,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 - [Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)
-- [Stop writing broken Go libraries](https://0x46.net/thoughts/2018/12/29/go-libraries/)
 
 ### Concurrency
 
@@ -190,6 +189,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Go Tooling in Action](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
 - [Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
+- [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 
 ### Trivia
 
