@@ -40,7 +40,6 @@ something else on the list to keep it at a fixed length.
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
-- [Unofficial Go FAQ](http://www.tapirgames.com/blog/golang-unofficial-faq)
 
 ### Worth reading, again and again
 
@@ -65,6 +64,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
+- [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 - [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
 - [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
