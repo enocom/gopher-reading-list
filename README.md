@@ -1,4 +1,4 @@
-# Gopher Reading List [![Build Status](https://travis-ci.org/enocom/gopher-reading-list.svg?branch=master)](https://travis-ci.org/enocom/gopher-reading-list)
+# Gopher Reading List
 
 Here is a reading list of blog posts about [Go](https://golang.org). It aspires
 to include only the most useful and relevant material that anyone writing Go
