@@ -149,7 +149,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [An Introduction to Testing in Go](https://tutorialedge.net/golang/intro-testing-in-go/)
 - [5 simple tips and tricks for writing unit tests in #golang](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742)
 - [5 Advanced Testing Techniques in Go](https://segment.com/blog/5-advanced-testing-techniques-in-go/)
-- [The Cult of Go Test](http://danmux.com/posts/the_cult_of_go_test/)
 - [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
 - [Go Testing Technique: Testing JSON HTTP Requests](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
@@ -222,7 +221,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Always Be Closing](https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da)
 - [Don't defer Close() on writable files](https://joeshaw.org/dont-defer-close-on-writable-files/)
-- [Examples For Using io.Pipe in Go](https://zupzup.org/io-pipe-go/)
 - [How to Use go:generate](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 - [Writing worker queues, in Go](http://nesv.github.io/golang/2014/02/25/worker-queues-in-go.html)
 - [Job Queues in Go - OpsDash](https://www.opsdash.com/blog/job-queues-in-go.html)
@@ -236,6 +234,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 - [The Go scheduler](http://morsmachine.dk/go-scheduler)
+- [Illustrated Tales of Go Runtime Scheduler](https://github.com/enocom/gopher-reading-list/issues/122)
 - [Go Assembly by Example](http://davidwong.fr/goasm/)
 - [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
@@ -257,6 +256,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+- [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html)
 
 ### Garbage Collection
 
