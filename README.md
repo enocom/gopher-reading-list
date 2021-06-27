@@ -25,6 +25,7 @@ something else on the list to keep it at a fixed length.
 - [Frequently Asked Questions](https://golang.org/doc/faq)
 - [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go by Example](https://gobyexample.com/)
+- [Learning Go](https://www.miek.nl/go/)
 
 ## Beginner
 
