@@ -28,6 +28,13 @@ something else on the list to keep it at a fixed length.
 - [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go by Example](https://gobyexample.com/)
 
+### Online Books
+
+- [Go Bootcamp](http://www.golangbootcamp.com/book/)
+- [Go 101](https://go101.org/article/101.html)
+
+See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, both free and paid.
+
 ## Beginner
 
 ### Some basics
@@ -48,13 +55,6 @@ something else on the list to keep it at a fixed length.
 - [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize/)
 - [Strings, bytes, runes and characters in Go](https://blog.golang.org/strings)
 - [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
-
-### Online Books
-
-- [Go Bootcamp](http://www.golangbootcamp.com/book/)
-- [Go 101](https://go101.org/article/101.html)
-
-See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, both free and paid.
 
 ### Organization and Style
 
