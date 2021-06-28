@@ -1,5 +1,7 @@
 # Gopher Reading List [![Build](https://github.com/enocom/gopher-reading-list/workflows/CI/badge.svg)](https://github.com/enocom/gopher-reading-list/actions?query=workflow%3ACI+branch%3Amain+)
 
+[中文版](https://github.com/qichengzx/gopher-reading-list-zh_CN)
+
 Here is a reading list of blog posts about [Go](https://golang.org). It aspires
 to include only the most useful and relevant material that anyone writing Go
 should eventually read. By definition, the list is a work in progress.
