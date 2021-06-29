@@ -236,7 +236,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 - [The Go scheduler](http://morsmachine.dk/go-scheduler)
-- [Illustrated Tales of Go Runtime Scheduler](https://github.com/enocom/gopher-reading-list/issues/122)
+- [Illustrated Tales of Go Runtime Scheduler](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
 - [Go Assembly by Example](http://davidwong.fr/goasm/)
 - [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
