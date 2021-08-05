@@ -121,6 +121,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 - [Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)
@@ -211,7 +212,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 
 ### Language
 
-- [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 - [Golang: pass by pointer vs pass by value](http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/)
 - [There is no pass-by-reference in Go](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
 - [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851)
