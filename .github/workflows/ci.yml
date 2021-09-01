@@ -10,14 +10,11 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         config-file: '.github/workflows/config.json'
-  two-hundred-links-check:
-    runs-on: ubuntu-latest
-    steps:
-    - name: "check list length"
+    - name: "Check for exactly 200 links"
       run: |
         if [ $(grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | uniq | wc -l) != 200 ]; then
           echo "ERROR: List is not exactly 200 entries"
