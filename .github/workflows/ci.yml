@@ -14,3 +14,10 @@ jobs:
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       with:
         config-file: '.github/workflows/config.json'
+  two-hundred-links-check:
+    runs-on: ubuntu-latest
+    run: |
+      if [ $(grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | uniq | wc -l) != 200 ]; then
+        echo "ERROR: List is not exactly 200 entries"
+        exit 1
+      fi
