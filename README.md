@@ -117,7 +117,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
-- [Iterators in Go](https://ewencp.org/blog/golang-iterators/index.html)
 
 ### Concurrency
 
@@ -139,6 +138,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
 - [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 - [The underutilized usefulness of sync.Once](https://blog.chuie.io/posts/synconce/)
+- [Code Review Checklist: Go concurrency](https://github.com/code-review-checklists/go-concurrency)
 
 ### Testing
 
