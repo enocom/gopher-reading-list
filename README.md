@@ -70,7 +70,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Package names](https://blog.golang.org/package-names)
-- [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ### Web
