@@ -61,7 +61,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
-- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
 - [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
@@ -179,6 +178,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Practical Persistence in Go: Organising Database Access](http://www.alexedwards.net/blog/organising-database-access)
 - [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 - [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/)
+- [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 
 ### Tools
 
