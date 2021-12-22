@@ -25,15 +25,10 @@ something else on the list to keep it at a fixed length.
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Frequently Asked Questions](https://golang.org/doc/faq)
-- [Go Koans](https://github.com/cdarwin/go-koans)
 - [Go by Example](https://gobyexample.com/)
-
-### Online Books
-
-- [Go Bootcamp](http://www.golangbootcamp.com/book/)
 - [Go 101](https://go101.org/article/101.html)
 
-See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, both free and paid.
+See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both free and paid.
 
 ## Beginner
 
@@ -42,7 +37,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
 - [Common Gotchas in Go](https://divan.dev/posts/avoid_gotchas/)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
@@ -66,9 +60,9 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
-- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
 - [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
+- [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
 - [Organizing Go Code](https://blog.golang.org/organizing-go-code)
 - [The anatomy of a Go project](http://darian.af/post/the-anatomy-of-a-golang-project/)
@@ -76,7 +70,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Package names](https://blog.golang.org/package-names)
-- [For Range Semantics](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
 - [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ### Web
@@ -90,6 +83,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Go and JSON](https://eager.io/blog/go-and-json/)
 - [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 - [Accessing data in Go](https://husio.github.io/blog/accessing-data-in-go/)
+- [How to Use //go:embed](https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/)
 
 ### Concurrency
 
@@ -112,6 +106,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
+- [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html)
 - [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
@@ -145,6 +140,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
 - [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
 - [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
+- [The underutilized usefulness of sync.Once](https://blog.chuie.io/posts/synconce/)
 
 ### Testing
 
@@ -218,6 +214,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a longer list of books, b
 - [Function Types in Go (golang)](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
+- [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
 
 ### Miscellaneous
 
