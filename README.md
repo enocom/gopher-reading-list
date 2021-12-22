@@ -78,7 +78,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
 - [Go and JSON](https://eager.io/blog/go-and-json/)
-- [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
 - [Accessing data in Go](https://husio.github.io/blog/accessing-data-in-go/)
 - [How to Use //go:embed](https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/)
 
@@ -291,3 +290,4 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [go-internals](https://github.com/teh-cmc/go-internals)
 - [go-fuzz github.com/arolek/ase](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
 - [Learning Go: Lexing and Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
+- [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
