@@ -137,6 +137,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 - [The underutilized usefulness of sync.Once](https://blog.chuie.io/posts/synconce/)
 - [Code Review Checklist: Go concurrency](https://github.com/code-review-checklists/go-concurrency)
+- [The Pros of Conds](https://lukechampine.com/cond.html)
 
 ### Testing
 
@@ -148,7 +149,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go Testing Technique: Testing JSON HTTP Requests](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
 - [Testing Your (HTTP) Handlers in Go](http://blog.questionable.services/article/testing-http-handlers-go/)
-- [Go test your tests in Go with go test](https://deadbeef.me/2018/05/go-test)
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
