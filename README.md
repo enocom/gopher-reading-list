@@ -153,7 +153,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Acceptance Testing Go Web Applications with Cookies](http://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
 - [Testing Your (HTTP) Handlers in Go](http://blog.questionable.services/article/testing-http-handlers-go/)
 - [Go test your tests in Go with go test](https://deadbeef.me/2018/05/go-test)
-- [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
 
