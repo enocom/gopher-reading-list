@@ -35,6 +35,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 ### Some basics
 
 - [Understand Go pointers in less than 800 words or your money back](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
+- [Don't fear the pointer](https://bitfieldconsulting.com/golang/pointers)
 - [Channel Axioms](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [Common Gotchas in Go](https://divan.dev/posts/avoid_gotchas/)
@@ -60,12 +61,9 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
-- [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
 - [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
-- [Organizing Go Code](https://blog.golang.org/organizing-go-code)
-- [The anatomy of a Go project](http://darian.af/post/the-anatomy-of-a-golang-project/)
 - [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
@@ -256,9 +254,11 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [go-perfbook](https://github.com/dgryski/go-perfbook)
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html)
+- [Reducing Memory Allocations in Golang](https://chris124567.github.io/2021-06-21-go-performance/)
 
 ### Garbage Collection
 
+- [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 - [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
 - [Golang's Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [How to Optimize Garbage Collection in Go](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
