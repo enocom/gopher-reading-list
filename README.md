@@ -108,7 +108,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
 - [How to organize the go struct, in order to save memory](https://medium.com/@felipedutratine/how-to-organize-the-go-struct-in-order-to-save-memory-c78afcf59ec2)
-- [How to ship production-grade Go](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 - [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
@@ -223,6 +222,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Reading files in Go](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
+- [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
 
 ## Advanced
 
@@ -242,6 +242,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Looking at your program’s structure in Go 1.7](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand](http://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
+- [Go: Introduction to the Escape Analysis](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
 - [Golang escape analysis](http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html)
 
 ### Performance
@@ -261,7 +262,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
 - [Golang's Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [How to Optimize Garbage Collection in Go](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
-- [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
 - [Garbage Collection in Go](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 
 ### Concurrency
