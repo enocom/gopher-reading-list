@@ -67,7 +67,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Package names](https://blog.golang.org/package-names)
-- [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 
 ### Web
 
@@ -223,6 +222,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 - [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
+- [Why Go modules are faster than GOPATH](https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj)
 
 ## Advanced
 
