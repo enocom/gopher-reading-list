@@ -43,6 +43,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Slices from the ground up](https://dave.cheney.net/2018/07/12/slices-from-the-ground-up)
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
+- [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 
 ### Worth reading, again and again
 
@@ -104,7 +105,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html)
 - [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
-- [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
 - [How to organize the go struct, in order to save memory](https://medium.com/@felipedutratine/how-to-organize-the-go-struct-in-order-to-save-memory-c78afcf59ec2)
 - [Loose Coupling in Go lang](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
