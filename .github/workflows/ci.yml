@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        config-file: '.github/workflows/config.json'
+    - uses: actions/setup-node@v2
+    - name: Check all links
+      run: npx markdown-link-check --config=.github/workflows/config.json README.md
     - name: "Check for exactly 200 links"
       run: |
         if [ $(grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | uniq | wc -l) != 200 ]; then

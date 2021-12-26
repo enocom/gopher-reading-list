@@ -1,3 +1,3 @@
 {
-    "ignorePatterns": ["blog.cloudflare.com"]
+    "ignorePatterns": [{"pattern": "/blog.cloudflare.com/"}]
 }
