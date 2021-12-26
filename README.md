@@ -177,6 +177,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 - [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/)
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
+- [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 
 ### Tools
 
@@ -184,7 +185,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go tooling essentials](https://rakyll.org/go-tool-flags/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Go Tooling in Action](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
-- [Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
 - [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 
 ### Trivia
