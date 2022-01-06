@@ -289,5 +289,5 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
 - [go-internals](https://github.com/teh-cmc/go-internals)
 - [go-fuzz github.com/arolek/ase](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
-- [Learning Go: Lexing and Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
+- [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
