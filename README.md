@@ -127,7 +127,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Context and Cancellation of goroutines](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
 - [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
 - [GoRoutines, Channels, and Proper Exits](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
-- [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
 - [Mutex Profile](https://rakyll.org/mutexprofile/)
 - [Sane Concurrency with Go](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
@@ -228,6 +227,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Low Level Concerns
 
+- [The Go Memory Model](https://go.dev/ref/mem)
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 - [The Go scheduler](http://morsmachine.dk/go-scheduler)
 - [Illustrated Tales of Go Runtime Scheduler](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
