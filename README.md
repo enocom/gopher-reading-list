@@ -197,7 +197,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Diagnostics](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
-- [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
 - [Debugging Go Applications using Delve](https://golangbot.com/debugging-go-delve/)
 
 ### Language
@@ -231,6 +230,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 - [The Go scheduler](http://morsmachine.dk/go-scheduler)
 - [Illustrated Tales of Go Runtime Scheduler](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
+- [Go: Asynchronous Preemption](https://medium.com/a-journey-with-go/go-asynchronous-preemption-b5194227371c)
 - [Go Assembly by Example](http://davidwong.fr/goasm/)
 - [Address Alignments in Go](http://www.tapirgames.com/blog/golang-memory-alignment)
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
