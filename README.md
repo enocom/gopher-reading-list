@@ -208,7 +208,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
 - [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
-- [Tutorial: Getting Started with Generics](https://go.dev/doc/tutorial/generics)
+- [An Introduction to Generics](https://go.dev/blog/intro-generics)
 
 ### Miscellaneous
 
