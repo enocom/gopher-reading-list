@@ -21,4 +21,5 @@ jobs:
           echo "ERROR: List is not exactly 200 entries"
           echo "DUPLICATES:"
           uniq -d links-only.txt
+          exit 1
         fi
