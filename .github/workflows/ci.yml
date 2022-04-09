@@ -16,7 +16,7 @@ jobs:
       run: npx markdown-link-check --config=.github/workflows/config.json README.md
     - name: "Check for exactly 200 links"
       run: |
-        if [ $(grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | uniq | wc -l) != 200 ]; then
+        if [ $(grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | sed 's/)//' | sort | uniq | wc -l) != 200 ]; then
           echo "ERROR: List is not exactly 200 entries"
           exit 1
         fi
