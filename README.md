@@ -44,6 +44,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
 - [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
+- [Different Ways to Initialize Go structs](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/)
 
 ### Worth reading, again and again
 
@@ -86,7 +87,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 - [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
 - [Go’s append is not always thread safe](https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975)
-- [Golang channels tutorial](https://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
 ### Go Modules
 
