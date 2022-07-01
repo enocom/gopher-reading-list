@@ -73,7 +73,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Web
 
-- [Creating My First Web Application with Go](https://rosalita.github.io/building-a-web-app-with-go/)
+- [Creating My First Web Application with Go](https://www.rosie.dev/post/building-a-web-app-with-go/)
 - [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 - [Serving Static Sites with Go](https://www.alexedwards.net/blog/serving-static-sites-with-go)
 - [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
