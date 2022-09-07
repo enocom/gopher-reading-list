@@ -20,6 +20,7 @@ something else on the list to keep it at a fixed length.
 
 ## Start Here
 
+- [Go is boring... and that's fantastic](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
 - [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 - [An Intro to Go for non-Go developers](https://benhoyt.com/writings/go-intro/)
 - [How to Write Go Code](https://golang.org/doc/code.html)
