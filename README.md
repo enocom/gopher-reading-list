@@ -26,7 +26,6 @@ something else on the list to keep it at a fixed length.
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
 - [Frequently Asked Questions](https://golang.org/doc/faq)
-- [Go by Example](https://gobyexample.com/)
 - [Go 101](https://go101.org/article/101.html)
 
 See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both free and paid.
