@@ -132,7 +132,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
 - [Does the race detector catch all data races?](https://medium.com/@val_deleplace/does-the-race-detector-catch-all-data-races-1afed51d57fb)
 - [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
-- [The underutilized usefulness of sync.Once](https://blog.chuie.io/posts/synconce/)
 - [Code Review Checklist: Go concurrency](https://github.com/code-review-checklists/go-concurrency)
 - [The Pros of Conds](https://lukechampine.com/cond.html)
 
@@ -192,12 +191,13 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Advanced Go Tips And Tricks](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
 - [Golang slices gotcha](https://allegro.tech/2017/07/golang-slices-gotcha.html)
 
-### Diagnostics
+### Performance
 
 - [Diagnostics](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](https://www.integralist.co.uk/posts/profiling-go/)
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Debugging Go Applications using Delve](https://golangbot.com/debugging-go-delve/)
+- [Easy memory-saving tricks in Go](https://github.com/enocom/gopher-reading-list/issues/203)
 
 ### Language
 
