@@ -184,6 +184,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Go Tooling in Action](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
 - [Statically compiling Go programs](https://www.arp242.net/static-go.html)
+- [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 
 ### Trivia
 
@@ -288,6 +289,5 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
 - [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
 - [go-internals](https://github.com/teh-cmc/go-internals)
-- [go-fuzz github.com/arolek/ase](https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c)
 - [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
