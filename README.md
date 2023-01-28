@@ -151,6 +151,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
 - [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
+- [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go/)
 
 ### Web
 
@@ -235,7 +236,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 - [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
-- [Why Go modules are faster than GOPATH](https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj)
 - [Bitmasks for nicer APIs](https://www.arp242.net/bitmask.html)
 
 ## Advanced
