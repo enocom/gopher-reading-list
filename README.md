@@ -76,7 +76,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 - [Creating My First Web Application with Go](https://www.rosie.dev/post/building-a-web-app-with-go/)
 - [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
-- [Serving Static Sites with Go](https://www.alexedwards.net/blog/serving-static-sites-with-go)
+- [Serving static files and web apps in Go](https://eli.thegreenplace.net/2022/serving-static-files-and-web-apps-in-go/)
 - [An Intro To Templates in Go](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [Writing middleware in #golang and how Go makes it so much fun](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
