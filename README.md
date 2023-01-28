@@ -70,6 +70,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Package names](https://blog.golang.org/package-names)
+- [What's in a name (slides)](https://talks.golang.org/2014/names.slide#1)
 
 ### Web
 
@@ -287,7 +288,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Miscellaneous
 
-- [Text normalization in Go](https://blog.golang.org/normalization)
 - [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
 - [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
