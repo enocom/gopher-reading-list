@@ -290,4 +290,4 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
-- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
+- [Data Race Patterns in Go](https://www.uber.com/blog/data-race-patterns-in-go/)
