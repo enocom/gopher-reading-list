@@ -135,6 +135,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Interesting ways of using Go channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 - [Code Review Checklist: Go concurrency](https://github.com/code-review-checklists/go-concurrency)
 - [The Pros of Conds](https://lukechampine.com/cond.html)
+- [Go concurrency guide](https://github.com/luk4z7/go-concurrency-guide)
 
 ### Testing
 
@@ -176,6 +177,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 - [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 - [Graceful shutdown of a TCP server in Go](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/)
+- [How to handle signals with Go to graceful shutdown HTTP server](https://rafallorenz.com/go/handle-signals-to-graceful-shutdown-http-server/)
 
 ### JSON
 
@@ -258,6 +260,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
 - [Go: Introduction to the Escape Analysis](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
+- [Interface method calls with the Go register ABI](https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi/)
 
 ### Performance
 
@@ -284,12 +287,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Advanced Go Concurrency Patterns](https://blog.golang.org/advanced-go-concurrency-patterns)
 - [The X-Files: Avoiding Concurrency Boilerplate with golang.org/x/sync](https://rodaine.com/2018/08/x-files-sync-golang/)
 - [Golang lock-free values with atomic.Value](https://texlution.com/post/golang-lock-free-values-with-atomic-value/)
-- [Share Memory by Communicating](https://blog.golang.org/share-memory-by-communicating)
-- [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
 - [Go Concurrency Patterns: Context](https://blog.golang.org/context)
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
-- [Locking in crypto/rand](https://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
-- [Stateful locks in Go](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
-
-
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/)
