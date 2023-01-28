@@ -259,6 +259,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Garbage Collection
 
+- [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 - [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
 - [Golang's Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
@@ -287,7 +288,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 - [Text normalization in Go](https://blog.golang.org/normalization)
 - [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
-- [Go Experience Report for Generics: Google metrics API](https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4)
 - [go-internals](https://github.com/teh-cmc/go-internals)
 - [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
