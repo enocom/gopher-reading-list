@@ -149,6 +149,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
+- [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 
 ### Web
 
@@ -177,6 +178,8 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 - [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 - [Graceful shutdown of a TCP server in Go](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/)
+- [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
+- [Custom JSON Marshalling in Go](http://choly.ca/post/go-json-marshalling/)
 
 ### Tools
 
@@ -210,8 +213,12 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Function Types in Go (golang)](https://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
-- [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
+
+### Generics
+
 - [An Introduction to Generics](https://go.dev/blog/intro-generics)
+- [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
+- [Faster sorting with Go generics](https://github.com/enocom/gopher-reading-list/issues/195)
 
 ### Miscellaneous
 
@@ -247,6 +254,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Managing Syscall Overhead with crypto/rand](https://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
 - [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
 - [Go: Introduction to the Escape Analysis](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
+- [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 
 ### Performance
 
@@ -281,13 +289,4 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Locking in crypto/rand](https://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
 - [Stateful locks in Go](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
 
-### JSON Encoding and Decoding
 
-- [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
-- [Custom JSON Marshalling in Go](http://choly.ca/post/go-json-marshalling/)
-
-### Miscellaneous
-
-- [Minimal Perfect Hash Functions](https://blog.gopheracademy.com/advent-2017/mphf/)
-- [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
-- [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
