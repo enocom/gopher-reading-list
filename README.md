@@ -114,6 +114,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
 - [Object Oriented Inheritance in Go](https://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
+- [Passing Loggers in Go: Golang Logging Best Practices](https://gogoapps.io/blog/passing-loggers-in-go-golang-logging-best-practices/)
 
 ### Concurrency
 
@@ -165,7 +166,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [HTTP Request Contexts & Go](https://blog.questionable.services/article/map-string-interface/)
 - [Using Object-Oriented Web Servers in Go](https://blog.codeship.com/using-object-oriented-web-servers-go/)
 - [Handle HTTP Request Errors in Go](https://pliutau.com/handle-http-request-errors-in-go/)
-- [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 - [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 - [Writing an API Client in Go](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object](https://blog.gopheracademy.com/advent-2017/seekable-http/)
