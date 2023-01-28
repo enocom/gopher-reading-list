@@ -112,7 +112,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
-- [Object Oriented Inheritance in Go](https://hackthology.com/object-oriented-inheritance-in-go.html)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 - [Passing Loggers in Go: Golang Logging Best Practices](https://gogoapps.io/blog/passing-loggers-in-go-golang-logging-best-practices/)
 
@@ -237,6 +236,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 - [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
 - [Why Go modules are faster than GOPATH](https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj)
+- [Bitmasks for nicer APIs](https://www.arp242.net/bitmask.html)
 
 ## Advanced
 
