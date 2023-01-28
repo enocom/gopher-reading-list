@@ -159,13 +159,11 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c)
 - [Write a Kubernetes-ready service from zero step-by-step](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/)
 - [A brief intro of TCP keep-alive in Go’s HTTP implementation](https://nanxiao.me/en/a-brief-intro-of-tcp-keep-alive-in-gos-http-implementation/)
-- [Go JSON Cookbook](https://eli.thegreenplace.net/2019/go-json-cookbook/)
 - [Build a Web Crawler in Go](https://jackcanty.com/build-a-web-crawler-in-go.html)
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](https://mmcloughlin.com/posts/your-pprof-is-showing)
 - [HTTP Request Contexts & Go](https://blog.questionable.services/article/map-string-interface/)
 - [Using Object-Oriented Web Servers in Go](https://blog.codeship.com/using-object-oriented-web-servers-go/)
 - [Handle HTTP Request Errors in Go](https://pliutau.com/handle-http-request-errors-in-go/)
-- [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 - [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 - [Writing an API Client in Go](https://blog.gopheracademy.com/advent-2016/http-client/)
@@ -178,8 +176,13 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 - [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 - [Graceful shutdown of a TCP server in Go](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/)
-- [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
+
+### JSON
+
+- [Go JSON Cookbook](https://eli.thegreenplace.net/2019/go-json-cookbook/)
 - [Custom JSON Marshalling in Go](http://choly.ca/post/go-json-marshalling/)
+- [Advanced Encoding and Decoding Techniques](https://blog.gopheracademy.com/advent-2016/advanced-encoding-decoding/)
+- [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
 
 ### Tools
 
