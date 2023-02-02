@@ -145,7 +145,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [5 Advanced Testing Techniques in Go](https://segment.com/blog/5-advanced-testing-techniques-in-go/)
 - [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
 - [Go Testing Technique: Testing JSON HTTP Requests](https://medium.com/@xoen/go-testing-technique-testing-json-http-requests-76d9ce0e11f#.95p1r8n16)
-- [Acceptance Testing Go Web Applications with Cookies](https://www.meetspaceapp.com/2016/05/16/acceptance-testing-go-webapps-with-cookies.html)
 - [Testing Your (HTTP) Handlers in Go](https://blog.questionable.services/article/testing-http-handlers-go/)
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Lesser-Known Features of Go Test](https://splice.com/blog/lesser-known-features-go-test/)
@@ -170,7 +169,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Writing an API Client in Go](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object](https://blog.gopheracademy.com/advent-2017/seekable-http/)
 - [Using Functions Inside Go Templates](https://www.calhoun.io/intro-to-templates-p3-functions/)
-- [Writing a Data Mapper in Go without an ORM](https://www.meetspaceapp.com/2016/05/23/writing-a-data-mapper-in-go-without-an-orm.html)
 - [Practical Persistence in Go: Organising Database Access](https://www.alexedwards.net/blog/organising-database-access)
 - [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 - [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/)
@@ -195,6 +193,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 - [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 - [Go mod's lesser known features](https://verdverm.com/go-mods/)
+- [A comprehensive guide to go generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
 
 ### Trivia
 
@@ -218,6 +217,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Function Types in Go (golang)](https://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
+- [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 
 ### Generics
 
