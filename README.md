@@ -103,7 +103,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
-- [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html)
 - [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
@@ -114,6 +113,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 - [Passing Loggers in Go: Golang Logging Best Practices](https://gogoapps.io/blog/passing-loggers-in-go-golang-logging-best-practices/)
+- [errors.Join ❤️ defer](https://wstrm.dev/posts/errors-join-heart-defer/)
 
 ### Concurrency
 
