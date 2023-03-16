@@ -10,8 +10,8 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
     - name: Check all links
       run: npx markdown-link-check --config=.github/workflows/config.json README.md
     - name: "Check for exactly 200 links"
