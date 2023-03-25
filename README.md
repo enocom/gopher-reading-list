@@ -237,6 +237,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Tags in Golang](https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e)
 - [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
 - [Bitmasks for nicer APIs](https://www.arp242.net/bitmask.html)
+- [A Comprehensive Guide to Structured Logging in Go](https://betterstack.com/community/guides/logging/logging-in-go/)
 
 ## Advanced
 
@@ -257,7 +258,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Type-Unsafe Pointers](https://go101.org/article/unsafe.html)
 - [Looking at your program’s structure in Go 1.7](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand](https://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
-- [Optimized abs() for int64 in Go](http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html)
 - [Go: Introduction to the Escape Analysis](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 - [Interface method calls with the Go register ABI](https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi/)
