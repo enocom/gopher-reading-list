@@ -151,6 +151,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
 - [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go/)
+- [Advanced Testing in Go](https://about.sourcegraph.com/blog/go/advanced-testing-in-go)
 
 ### Web
 
@@ -278,7 +279,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [A Guide to the Go Garbage Collector](https://go.dev/doc/gc-guide)
 - [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 - [Avoiding high GC overhead with large heaps](https://blog.gopheracademy.com/advent-2018/avoid-gc-overhead-large-heaps/)
-- [Golang's Real-time GC in Theory and Practice](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/)
 - [How to Optimize Garbage Collection in Go](https://www.cockroachlabs.com/blog/how-to-optimize-garbage-collection-in-go/)
 - [Garbage Collection in Go](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 
