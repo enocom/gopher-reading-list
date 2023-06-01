@@ -61,7 +61,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 - [Error handling and Go](https://blog.golang.org/error-handling-and-go)
-- [Go's Error Handling is Elegant](https://davidnix.io/posts/error-handling-in-go/)
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 - [Simple Go project layout with modules](https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
@@ -201,6 +200,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
 - [Advanced Go Tips And Tricks](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
 - [Golang slices gotcha](https://allegro.tech/2017/07/golang-slices-gotcha.html)
+- [a[low:high:max] in Golang — A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
 
 ### Performance
 
