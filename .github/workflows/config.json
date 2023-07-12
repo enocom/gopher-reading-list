@@ -1,3 +1,9 @@
 {
-    "ignorePatterns": [{"pattern": "/blog.cloudflare.com/"}]
+    "ignorePatterns": [{"pattern": "/blog.cloudflare.com/"}],
+    "httpHeaders": [{
+        "urls": ["https://www.uber.com/blog/data-race-patterns-in-go/"],
+        "headers": {
+            "Accept": "text/html"
+        }
+    }]
 }
