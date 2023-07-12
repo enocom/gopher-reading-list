@@ -1,3 +1,8 @@
 {
-    "ignorePatterns": [{"pattern": "/blog.cloudflare.com/"}]
+    "ignorePatterns": [{"pattern": "/blog.cloudflare.com/"}],
+    "httpHeaders": [
+        "headers": {
+            "Accept": "text/html"
+        }
+    ],
 }
