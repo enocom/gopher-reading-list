@@ -187,10 +187,10 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Tools
 
+- [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
 - [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 - [Go tooling essentials](https://rakyll.org/go-tool-flags/)
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
-- [Go Tooling in Action](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc#.d9ob4wyj4)
 - [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 - [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
 - [Go mod's lesser known features](https://verdverm.com/go-mods/)
