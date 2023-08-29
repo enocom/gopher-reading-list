@@ -210,6 +210,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Debugging Go Applications using Delve](https://golangbot.com/debugging-go-delve/)
 - [Easy memory-saving tricks in Go](https://github.com/enocom/gopher-reading-list/issues/203)
+- [Common Pitfalls in Go Benchmarking](https://eli.thegreenplace.net/2023/common-pitfalls-in-go-benchmarking/)
 
 ### Language
 
@@ -234,7 +235,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [How to Use go:generate](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 - [Writing worker queues, in Go](https://nesv.github.io/golang/2014/02/25/worker-queues-in-go.html)
 - [Job Queues in Go - OpsDash](https://www.opsdash.com/blog/job-queues-in-go.html)
-- [Reading files in Go](https://kgrz.io/reading-files-in-go-an-overview.html)
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - [Handling Errors from Deferred Functions in Go](https://trstringer.com/golang-deferred-function-error-handling/)
 - [Bitmasks for nicer APIs](https://www.arp242.net/bitmask.html)
