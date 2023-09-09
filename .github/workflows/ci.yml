@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
+    - uses: oven-sh/setup-bun@v1
     - name: Check all links
-      run: npx markdown-link-check --config=.github/workflows/config.json README.md
+      run: bunx markdown-link-check --config=.github/workflows/config.json README.md
     - name: "Check for exactly 200 links"
       run: |
         grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | sed 's/)//' | sort > links-only.txt
