@@ -55,6 +55,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Organization and Style
 
+- [Organizing a Go module](https://go.dev/doc/modules/layout)
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
 - [Go Proverbs](https://go-proverbs.github.io/)
@@ -112,7 +113,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
 - [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
-- [Passing Loggers in Go: Golang Logging Best Practices](https://gogoapps.io/blog/passing-loggers-in-go-golang-logging-best-practices/)
 - [errors.Join ❤️ defer](https://wstrm.dev/posts/errors-join-heart-defer/)
 
 ### Concurrency
