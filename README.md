@@ -199,7 +199,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 ### Trivia
 
 - [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
-- [Advanced Go Tips And Tricks](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
 - [Golang slices gotcha](https://allegro.tech/2017/07/golang-slices-gotcha.html)
 - [a[low:high:max] in Golang — A Rare Slice Trick](https://build-your-own.org/blog/20230316_go_full_slice/)
 
@@ -262,6 +261,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go: Introduction to the Escape Analysis](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 - [Interface method calls with the Go register ABI](https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi/)
+- [Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size](https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/)
 
 ### Performance
 
