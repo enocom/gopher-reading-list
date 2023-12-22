@@ -219,7 +219,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Function Types in Go (golang)](https://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
-- [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 
 ### Generics
 
@@ -273,6 +272,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
 - [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html)
 - [Reducing Memory Allocations in Golang](https://chris124567.github.io/2021-06-21-go-performance/)
+- [Analyzing Go Heap Escapes](https://landontclipp.github.io/blog/2023/07/15/analyzing-go-heap-escapes/)
 
 ### Garbage Collection
 
