@@ -10,7 +10,7 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - uses: oven-sh/setup-bun@v1
     - name: Check all links
       run: bun x markdown-link-check --config=.github/workflows/config.json README.md
