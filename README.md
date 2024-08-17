@@ -115,6 +115,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Functional Options on Steroids](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
 - [Error handling in Upspin](https://commandcenter.blogspot.com/2017/12/error-handling-in-upspin.html)
 - [errors.Join ❤️ defer](https://wstrm.dev/posts/errors-join-heart-defer/)
+- [Contexts and structs](https://go.dev/blog/context-and-structs)
 
 ### Concurrency
 
@@ -140,7 +141,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 ### Testing
 
-- [Testing Web Apps in Go](https://markjberger.com/testing-web-apps-in-golang/)
 - [An Introduction to Testing in Go](https://tutorialedge.net/golang/intro-testing-in-go/)
 - [5 simple tips and tricks for writing unit tests in #golang](https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742)
 - [5 Advanced Testing Techniques in Go](https://segment.com/blog/5-advanced-testing-techniques-in-go/)
@@ -166,13 +166,12 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](https://mmcloughlin.com/posts/your-pprof-is-showing)
 - [HTTP Request Contexts & Go](https://blog.questionable.services/article/map-string-interface/)
 - [Using Object-Oriented Web Servers in Go](https://blog.codeship.com/using-object-oriented-web-servers-go/)
-- [Handle HTTP Request Errors in Go](https://pliutau.com/handle-http-request-errors-in-go/)
 - [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 - [Writing an API Client in Go](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object](https://blog.gopheracademy.com/advent-2017/seekable-http/)
 - [Using Functions Inside Go Templates](https://www.calhoun.io/intro-to-templates-p3-functions/)
 - [Practical Persistence in Go: Organising Database Access](https://www.alexedwards.net/blog/organising-database-access)
-- [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 - [Make resilient Go net/http servers using timeouts, deadlines and context cancellation](https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/)
 - [Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 - [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
@@ -220,6 +219,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Function Types in Go (golang)](https://jordanorelli.com/post/42369331748/function-types-in-go-golang)
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
+- [A comprehensive guide to file operations in Go](https://www.honeybadger.io/blog/comprehensive-guide-to-file-operations-in-go/)
 
 ### Generics
 
