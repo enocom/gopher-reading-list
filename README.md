@@ -105,7 +105,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
-- [Failure is your Domain](https://middlemost.com/failure-is-your-domain/)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
 - [How to organize the go struct, in order to save memory](https://medium.com/@felipedutratine/how-to-organize-the-go-struct-in-order-to-save-memory-c78afcf59ec2)
@@ -220,6 +219,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
 - [A comprehensive guide to file operations in Go](https://www.honeybadger.io/blog/comprehensive-guide-to-file-operations-in-go/)
+- [Range Over Function Types](https://go.dev/blog/range-functions)
 
 ### Generics
 
