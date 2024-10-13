@@ -20,7 +20,7 @@ something else on the list to keep it at a fixed length.
 
 ## Start Here
 
-- [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
+- [Go at Google: Language Design in the Service of Software Engineering](https://go.dev/talks/2012/splash.article)
 - [An Intro to Go for non-Go developers](https://benhoyt.com/writings/go-intro/)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [A Tour of Go](https://tour.golang.org/welcome/1)
@@ -220,11 +220,13 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [The Relationship Between Interfaces and Reflection](https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/)
 - [A comprehensive guide to file operations in Go](https://www.honeybadger.io/blog/comprehensive-guide-to-file-operations-in-go/)
 - [Range Over Function Types](https://go.dev/blog/range-functions)
+- [Go range iterators demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
+- [Fundamentals of I/O in Go](https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608)
 
 ### Generics
 
 - [An Introduction to Generics](https://go.dev/blog/intro-generics)
-- [When to Use Generics in Go?](https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda)
+- [When to Use Generics in Go?](https://100go.co/9-generics/)
 - [Faster sorting with Go generics](https://github.com/enocom/gopher-reading-list/issues/195)
 
 ### Miscellaneous
@@ -247,7 +249,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 - [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [Illustrated Tales of Go Runtime Scheduler](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
-- [Go: Asynchronous Preemption](https://medium.com/a-journey-with-go/go-asynchronous-preemption-b5194227371c)
 - [Go Assembly by Example](https://davidwong.fr/goasm/)
 - [Address Alignments in Go](https://www.tapirgames.com/blog/golang-memory-alignment)
 - [Hacking the Scheduler](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
@@ -258,7 +259,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Type-Unsafe Pointers](https://go101.org/article/unsafe.html)
 - [Looking at your program’s structure in Go 1.7](https://pauladamsmith.com/blog/2016/08/go-1.7-ssa.html)
 - [Managing Syscall Overhead with crypto/rand](https://blog.sgmansfield.com/2016/06/managing-syscall-overhead-with-crypto-rand/)
-- [Go: Introduction to the Escape Analysis](https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890)
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 - [Interface method calls with the Go register ABI](https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi/)
 - [Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size](https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/)
