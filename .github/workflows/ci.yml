@@ -15,7 +15,7 @@ jobs:
       id: lychee
       uses: lycheeverse/lychee-action@v2
       with:
-        args: "--exclude https://www.uber.com" # Uber returns 406s otherwise
+        args: "--exclude https://www.uber.com README.md" # Uber returns 406s otherwise
     - name: "Check for exactly 200 links"
       run: |
         grep "\- \[" README.md | grep -Eo "https?://[^][ ]+" | sed 's/)//' | sort > links-only.txt
