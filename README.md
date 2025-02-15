@@ -150,7 +150,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [When Writing Unit Tests, Don’t Use Mocks](https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/)
 - [Property-based testing in Go](https://earthly.dev/blog/property-based-testing/)
 - [Functional table-driven tests in Go](https://arslan.io/2022/12/04/functional-table-driven-tests-in-go/)
-- [Advanced Testing in Go](https://about.sourcegraph.com/blog/go/advanced-testing-in-go)
 
 ### Web
 
@@ -191,7 +190,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Profiling Go Programs](https://blog.golang.org/profiling-go-programs)
 - [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 - [Tutorial: Getting started with fuzzing](https://go.dev/doc/tutorial/fuzz)
-- [Go mod's lesser known features](https://verdverm.com/go-mods/)
 - [A comprehensive guide to go generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/)
 
 ### Trivia
@@ -222,6 +220,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Go range iterators demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 - [Fundamentals of I/O in Go](https://medium.com/@andreiboar/fundamentals-of-i-o-in-go-part-2-e7bb68cd5608)
 - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
+- [Interfaces in Go](https://akira.sh/posts/go-interfaces/)
 
 ### Generics
 
@@ -262,6 +261,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [Monkey Patching in Go](https://bou.ke/blog/monkey-patching-in-go/)
 - [Interface method calls with the Go register ABI](https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi/)
 - [Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size](https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/)
+- [Modifying Private Variables of a Struct in Go Using unsafe and reflect](https://medium.com/@darshan.na185/modifying-private-variables-of-a-struct-in-go-using-unsafe-and-reflect-5447b3019a80)
 
 ### Performance
 
