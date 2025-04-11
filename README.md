@@ -246,7 +246,6 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 
 - [The Go Memory Model](https://go.dev/ref/mem)
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
-- [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [Illustrated Tales of Go Runtime Scheduler](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
 - [Go Assembly by Example](https://davidwong.fr/goasm/)
 - [Address Alignments in Go](https://www.tapirgames.com/blog/golang-memory-alignment)
@@ -273,6 +272,7 @@ See [Go Books](https://github.com/dariubs/GoBooks) for a list of books, both fre
 - [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html)
 - [Reducing Memory Allocations in Golang](https://chris124567.github.io/2021-06-21-go-performance/)
 - [Analyzing Go Heap Escapes](https://landontclipp.github.io/blog/2023/07/15/analyzing-go-heap-escapes/)
+- [Make Go application container resource limits aware](https://kupczynski.info/posts/go-container-aware/)
 
 ### Garbage Collection
 
